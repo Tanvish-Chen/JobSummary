@@ -10,8 +10,8 @@ export const companies = [
   { id: 'bytedance', name: '字节跳动', nature: '私企大厂', city: '北京', match: 3,
     matchTags: ['大模型', 'AI安全', 'Agent'],
     dept: 'Seed大模型团队 / TikTok / 安全与风控 / 火山引擎',
-    note: '2026届校招8月5日启动、招5000+人，研发岗同比+23%；2027届预计8月初同步启动。博士可走 TopSeed 专项。',
-    phdProgram: 'TopSeed（顶尖博士专项）', url: 'https://jobs.bytedance.com/campus' },
+    note: '2027届校招8月3日启动、全年开放共4次投递机会（本批至2026-12-31）。注意：Seed 2027届统一走「Seed 大模型人才校招」，不再单独设 TopSeed（2026-09-06 复核）。',
+    phdProgram: 'Seed 大模型人才校招（原 TopSeed 并入，2026-09-06 复核）', url: 'https://jobs.bytedance.com/campus' },
   { id: 'alibaba', name: '阿里巴巴', nature: '私企大厂', city: '杭州', match: 3,
     matchTags: ['大模型', 'AI安全', 'Agent'],
     dept: '通义实验室 / 达摩院 / 阿里云 / 集团安全部（内容安全与AI治理对口水印方向）',
@@ -444,7 +444,7 @@ export const companies = [
 /** 博士专项人才计划汇总（2026-08核实：华为官方确认2027届博士范围；各家以当年官方公告为准） */
 export const phdPrograms = [
   { name: '华为 天才少年', company: '华为', salary: '最高档182-201万年薪（分三档）', note: '自主申报+约7轮专家面试；不限学校学历，看重数学/计算机/物理等硬核能力；2026年仍在招募。', url: 'https://career.huawei.com/reccampportal/portal5/topminds.html' },
-  { name: '字节跳动 TopSeed', company: '字节跳动', salary: '对标市场顶尖水平', note: '面向全球顶尖博士/研究员，大模型方向为主，Seed团队。', url: 'https://jobs.bytedance.com/campus' },
+  { name: '字节跳动 Seed 大模型人才校招', company: '字节跳动', salary: '对标市场顶尖水平', note: '原 TopSeed 已并入，2027届统一通道；面向顶尖博士/研究员，大模型方向为主，全球约100人。', url: 'https://seed.bytedance.com/zh/seedearlycareer' },
   { name: '阿里巴巴 阿里星', company: '阿里巴巴', salary: '顶尖薪酬+股票', note: '面向全球顶尖博士，可自选研究方向与团队。', url: 'https://talent-holding.alibaba.com/campus' },
   { name: '腾讯 青云计划', company: '腾讯', salary: '行业顶级', note: '面向顶尖技术博士生，混元大模型/安全等方向。', url: 'https://join.qq.com/campus' },
   { name: '美团 北斗计划', company: '美团', salary: '顶尖水平', note: '面向顶尖博士，基础研发平台。', url: 'https://zhaopin.meituan.com/campus' },
