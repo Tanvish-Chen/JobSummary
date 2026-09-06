@@ -1,0 +1,196 @@
+:root {
+  --qz-primary: #2f54eb;
+  --qz-primary-light: #f0f5ff;
+  --qz-bg: #f5f7fa;
+  --qz-card-border: #e8eaef;
+  --qz-text-main: #1f2329;
+  --qz-text-sub: #646a73;
+}
+
+* { box-sizing: border-box; }
+
+html, body, #app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  background: var(--qz-bg);
+  color: var(--qz-text-main);
+  font-size: 14px;
+}
+
+/* 布局 */
+.qz-layout { height: 100%; }
+.qz-aside {
+  background: #001529;
+  width: 232px !important;
+  overflow-y: auto;
+}
+.qz-logo {
+  color: #fff;
+  font-size: 17px;
+  font-weight: 700;
+  padding: 18px 20px 14px;
+  letter-spacing: 1px;
+}
+.qz-logo .sub {
+  display: block;
+  font-size: 11px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.55);
+  margin-top: 4px;
+  letter-spacing: 0;
+}
+.qz-menu { border-right: none; }
+
+.qz-header {
+  background: #fff;
+  border-bottom: 1px solid var(--qz-card-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  height: 56px;
+}
+.qz-header .title { font-size: 16px; font-weight: 600; }
+.qz-header .date-info { color: var(--qz-text-sub); font-size: 13px; }
+
+.qz-main { padding: 20px 24px; overflow-y: auto; background: var(--qz-bg); }
+
+/* 卡片与标题 */
+.qz-card {
+  background: #fff;
+  border: 1px solid var(--qz-card-border);
+  border-radius: 10px;
+  padding: 18px 20px;
+  margin-bottom: 16px;
+}
+.qz-card h3 {
+  margin: 0 0 12px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.qz-section-title {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 6px 0 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.qz-muted { color: var(--qz-text-sub); font-size: 13px; }
+
+/* 通用文字排版 */
+.qz-prose { line-height: 1.9; font-size: 14px; color: #333a45; }
+.qz-prose h4 {
+  margin: 14px 0 6px;
+  font-size: 14.5px;
+  color: var(--qz-text-main);
+}
+.qz-prose ul, .qz-prose ol { padding-left: 20px; margin: 6px 0; }
+.qz-prose li { margin: 3px 0; }
+.qz-prose b, .qz-prose strong { color: var(--qz-primary); }
+
+.qz-highlight-box {
+  background: var(--qz-primary-light);
+  border-left: 3px solid var(--qz-primary);
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin: 10px 0;
+  font-size: 13.5px;
+  line-height: 1.8;
+}
+.qz-warning-box {
+  background: #fff7e6;
+  border-left: 3px solid #fa8c16;
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin: 10px 0;
+  font-size: 13.5px;
+  line-height: 1.8;
+}
+
+.qz-table-full { width: 100%; }
+
+/* 看板 */
+.kanban-board {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+  align-items: flex-start;
+}
+.kanban-col {
+  background: #eef0f4;
+  border-radius: 10px;
+  min-width: 218px;
+  width: 218px;
+  flex-shrink: 0;
+  padding: 10px;
+}
+.kanban-col .col-title {
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 4px;
+}
+.kanban-card {
+  background: #fff;
+  border: 1px solid var(--qz-card-border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+.kanban-card:hover { border-color: var(--qz-primary); }
+.kanban-card .kc-title { font-weight: 600; font-size: 13.5px; }
+.kanban-card .kc-pos { color: var(--qz-text-sub); font-size: 12.5px; margin: 2px 0; }
+.kanban-card .kc-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 6px;
+  font-size: 12px;
+}
+
+/* 日历 */
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 6px;
+}
+.cal-cell {
+  min-height: 92px;
+  background: #fff;
+  border: 1px solid var(--qz-card-border);
+  border-radius: 6px;
+  padding: 6px;
+  font-size: 12px;
+}
+.cal-cell.today { border-color: var(--qz-primary); box-shadow: 0 0 0 1px var(--qz-primary) inset; }
+.cal-cell .cal-day { font-weight: 700; color: var(--qz-text-sub); }
+.cal-cell .cal-ev {
+  margin-top: 3px;
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-size: 11px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+  .qz-aside { display: none; }
+  .qz-main { padding: 12px; }
+  .kanban-col { min-width: 200px; width: 200px; }
+}

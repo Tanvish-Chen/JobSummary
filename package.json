@@ -1,0 +1,26 @@
+{
+  "name": "jobsummary",
+  "private": true,
+  "version": "2.0.0",
+  "description": "秋招作战室·岗位雷达 —— 2027届AI方向博士求职系统（Autumn_recruitment + find_job 合并版）",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate": "node scripts/validate-jobs.mjs"
+  },
+  "engines": {
+    "node": ">=22.12"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "element-plus": "^2.10.2",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.0",
+    "vite": "^7.0.0"
+  }
+}

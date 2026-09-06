@@ -1,0 +1,3865 @@
+{
+  "updated_at": "2026-08-28",
+  "jobs": [
+    {
+      "id": "moonshot-llm-01",
+      "company_id": "moonshot",
+      "title": "【校招】大模型算法研究员/工程师（预训练）",
+      "direction": "llm",
+      "skills": [
+        "Transformer",
+        "PyTorch/JAX",
+        "模型架构设计",
+        "预训练数据工程"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e3a6bf00-f9bd-4daa-a03a-f965220c6bf1",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "要求985/211/海外研究生或优秀本科生，有预训练/Scaling经验、顶会论文或竞赛获奖者优先"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类，发布于2026-08-14；3个月内限投3个职位",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "moonshot-llm-02",
+      "company_id": "moonshot",
+      "title": "强化学习-大模型算法工程师/研究员（RL方向 校招）",
+      "direction": "llm",
+      "skills": [
+        "强化学习",
+        "Long CoT",
+        "大模型对齐"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8bb1d380-465f-4e21-8d9f-4cd37617d3a3",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "RL 是 Kimi 核心方向，竞争激烈"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类；研究基于 Long CoT 的大模型强化学习（算法或系统）",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "moonshot-llm-03",
+      "company_id": "moonshot",
+      "title": "Kimi Post-Training Algorithm Researcher/Engineer（Code）",
+      "direction": "llm",
+      "skills": [
+        "Post-Training",
+        "代码模型",
+        "RLHF"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8bcd1241-2e42-4f70-8b9c-3ab197119d61",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "代码方向后训练，Kimi K2 核心团队"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "moonshot-research-01",
+      "company_id": "moonshot",
+      "title": "Research Scientist / Engineer – Agentic RL",
+      "direction": "research",
+      "skills": [
+        "Agentic RL",
+        "Agent 系统",
+        "强化学习研究"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5fd59e02-c6f7-4673-8e4d-723d03b12710",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "研究向岗位，重论文与研究能力"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类，发布于2026-07-10",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "moonshot-infra-01",
+      "company_id": "moonshot",
+      "title": "【校招】训练框架工程师",
+      "direction": "infra",
+      "skills": [
+        "分布式训练",
+        "训练框架",
+        "PyTorch",
+        "GPU 优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5394cb50-a207-4504-896d-ea1b33c1455b",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "LLM 训练框架底层组件研发，工程要求高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜技术类，发布于2026-08-14",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "moonshot-infra-02",
+      "company_id": "moonshot",
+      "title": "【校招】推理框架工程师",
+      "direction": "infra",
+      "skills": [
+        "推理引擎",
+        "推理加速",
+        "LLM Serving"
+      ],
+      "degree": "本科",
+      "cities": [
+        "上海",
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/c0afdc4a-1303-4467-b377-9c3eda312845",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "推理引擎计算效率优化，系统功底要求高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜技术类，发布于2026-08-14",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "moonshot-infra-03",
+      "company_id": "moonshot",
+      "title": "【校招】高性能计算工程师",
+      "direction": "infra",
+      "skills": [
+        "CUDA",
+        "GPU 体系结构",
+        "算子优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/fc66dea2-c95f-4594-8eb9-06dfc181e28a",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "CUDA 内核定制开发，偏底层"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜技术类，发布于2026-08-14",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "moonshot-infra-04",
+      "company_id": "moonshot",
+      "title": "【校招】RL Infra",
+      "direction": "infra",
+      "skills": [
+        "GPU 性能优化",
+        "强化学习系统",
+        "分布式系统"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/6a61db18-b84b-4ea8-a696-c7d6e175cf0e",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "面向 RL 训练的基建岗，要求深谙 GPU 性能极限"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜技术类，发布于2026-08-14",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "moonshot-infra-05",
+      "company_id": "moonshot",
+      "title": "【校招】LLM推理优化工程师",
+      "direction": "infra",
+      "skills": [
+        "推理优化",
+        "量化（QAT/Quant）",
+        "训推协同"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/d5c86bcc-3d38-4e85-8161-01c9f3fdce49",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "量化与训推协同优化，工程+算法复合要求"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜技术类，发布于2026-08-14",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "stepfun-llm-01",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-大语言模型pre-train 算法研究员",
+      "direction": "llm",
+      "skills": [
+        "预训练范式研究",
+        "模型 Scaling",
+        "训推协同优化"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/e1b32746-3aff-47b6-bef5-7370840c3db0",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "StepStar 顶尖人才计划批次，竞争集中在头部"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究；负责下一代预训练范式研究与 Scale up",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-llm-02",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-大语言模型pre-train 数据算法工程师",
+      "direction": "llm",
+      "skills": [
+        "预训练数据体系",
+        "数据清洗去重",
+        "质量过滤与配比"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/9fd48889-12c5-4613-b0f7-1f459c6340b0",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "预训练数据工程岗，规模大、要求细"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究；数据采集、清洗、去重、配比与版本管理",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-llm-03",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-大语言模型架构算法研究员",
+      "direction": "llm",
+      "skills": [
+        "模型架构研究",
+        "Linear Attention",
+        "Recurrent Model"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/d8d0e0ef-09ee-4733-b643-c8606c113574",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "下一代基础模型架构研究，重研究功底"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究；新型架构探索",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-llm-04",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-大语言模型mid-train 算法研究员",
+      "direction": "llm",
+      "skills": [
+        "中程训练",
+        "代码/数学/Reasoning",
+        "长上下文"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/650e8b25-27be-4229-a757-cfc38d753893",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "mid-train 能力增强方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究；围绕代码、数学、推理、长上下文的能力增强",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-llm-05",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-LLM post train 算法研究员",
+      "direction": "llm",
+      "skills": [
+        "对齐（Alignment）",
+        "数据循环体系",
+        "强化学习后训练"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/5e938ea8-dfab-4d05-8043-550393edb488",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "通用推理/多模态大模型对齐方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-llm-06",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-Code Agent 算法研究员",
+      "direction": "llm",
+      "skills": [
+        "代码数据合成",
+        "Agent",
+        "后训练数据质量"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/6c97ac79-0156-408d-be2f-f7e2a73ba34f",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "代码 Agent 方向，数据+算法复合"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究；代码数据合成与中程/后训练质量提升",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-multimodal-01",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-语音大模型算法研究员/工程师",
+      "direction": "multimodal",
+      "skills": [
+        "语音理解与合成",
+        "实时语音模型",
+        "大规模语音数据"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/96558782-96c6-44b7-a9d6-8732a1a861e0",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "语音大模型方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究；语音理解、合成、音乐与实时语音",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-infra-01",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-大模型推理优化系统工程师",
+      "direction": "infra",
+      "skills": [
+        "分布式推理框架",
+        "GPU 计算优化",
+        "吞吐优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/4fd27b27-d29f-40a0-9ec2-9848c3f81622",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "推理框架开发与性能优化"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究；分布式大模型推理框架",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-infra-02",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-大模型训练框架系统工程师",
+      "direction": "infra",
+      "skills": [
+        "训练框架",
+        "预训练/后训练系统",
+        "算法系统联合优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/64c156e3-a665-4ce9-9e47-613fe09218ec",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "训练框架研发，系统要求高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究；LLM/多模态预训练与后训练框架",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-infra-03",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-大模型后训练系统工程师",
+      "direction": "infra",
+      "skills": [
+        "训/推引擎优化",
+        "大规模 RL 训练效率",
+        "系统稳定性"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/7ca418fb-2df5-437d-9c79-514c022f094b",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "后训练系统框架建设"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法研究",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "stepfun-infra-04",
+      "company_id": "stepfun",
+      "title": "27届Stepstar-高性能网络系统工程师",
+      "direction": "infra",
+      "skills": [
+        "高性能网络",
+        "分布式训练通信库",
+        "通信优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/step/141903#/job/dda341a8-2b55-472e-ac36-927acacb8ebe",
+      "deadline": "2026-10-30",
+      "difficulty": {
+        "level": "高",
+        "note": "超大规模训练网络基建，偏底层"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜工程研发；自研通信库与网络管控平台",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "sensetime-multimodal-01",
+      "company_id": "sensetime",
+      "title": "多模态理解生成一体研究员-多模态大模型",
+      "direction": "multimodal",
+      "skills": [
+        "多模态大模型",
+        "理解生成一体",
+        "深度学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "香港"
+      ],
+      "apply_url": "https://hr.sensetime.com/campus",
+      "deadline": "2026-12-31",
+      "difficulty": {
+        "level": "高",
+        "note": "提前批研究员岗，重研究背景"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "2027 届校招提前批；面向 2026.9-2027.12 毕业生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "sensetime-multimodal-02",
+      "company_id": "sensetime",
+      "title": "多模态理解生成一体研究员-视频生成与创作研发",
+      "direction": "multimodal",
+      "skills": [
+        "视频生成",
+        "扩散模型",
+        "多模态创作"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "香港"
+      ],
+      "apply_url": "https://hr.sensetime.com/campus",
+      "deadline": "2026-12-31",
+      "difficulty": {
+        "level": "高",
+        "note": "视频生成方向，重论文与项目"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "2027 届校招提前批",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "sensetime-llm-01",
+      "company_id": "sensetime",
+      "title": "通用智能体研究员",
+      "direction": "llm",
+      "skills": [
+        "Agent",
+        "大模型",
+        "强化学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "香港"
+      ],
+      "apply_url": "https://hr.sensetime.com/campus",
+      "deadline": "2026-12-31",
+      "difficulty": {
+        "level": "高",
+        "note": "通用智能体研究方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "2027 届校招提前批",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "sensetime-llm-02",
+      "company_id": "sensetime",
+      "title": "后训练（数据/算法）研究员",
+      "direction": "llm",
+      "skills": [
+        "后训练",
+        "对齐",
+        "数据工程"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "香港"
+      ],
+      "apply_url": "https://hr.sensetime.com/campus",
+      "deadline": "2026-12-31",
+      "difficulty": {
+        "level": "高",
+        "note": "后训练数据+算法复合"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "2027 届校招提前批",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "sensetime-llm-03",
+      "company_id": "sensetime",
+      "title": "Agent Harness 研究员/算法工程师",
+      "direction": "llm",
+      "skills": [
+        "Agent 框架",
+        "大模型",
+        "工程实现"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "香港"
+      ],
+      "apply_url": "https://hr.sensetime.com/campus",
+      "deadline": "2026-12-31",
+      "difficulty": {
+        "level": "中",
+        "note": "研究+工程混合岗"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "2027 届校招提前批",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "modelbest-llm-01",
+      "company_id": "modelbest",
+      "title": "「前进四」顶尖人才计划（2027 年及以后毕业硕博）",
+      "direction": "llm",
+      "skills": [
+        "端侧大模型",
+        "强化学习",
+        "具身智能",
+        "数据治理"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "成都",
+        "西安",
+        "杭州"
+      ],
+      "apply_url": "mailto:career@modelbest.cn",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "顶尖人才通道，毕业前可授期权锁定，门槛高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全年接受申请；投递邮箱 career@modelbest.cn；2026-08-26 启动",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "minimax-infra-01",
+      "company_id": "minimax",
+      "title": "大模型数据链路工程师-2027届",
+      "direction": "infra",
+      "skills": [
+        "分布式数据引擎",
+        "Ray/Spark",
+        "数据清洗与采样"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7657847492860037414/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "大模型数据 pipeline 分布式引擎，与算法团队深度协作"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜研发；支撑大模型数据清洗/分类/采样场景",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "minimax-infra-02",
+      "company_id": "minimax",
+      "title": "视频训练研发工程师-2027届",
+      "direction": "infra",
+      "skills": [
+        "训练框架",
+        "高性能算子",
+        "分布式并行策略"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7657843944982956297/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "大规模模型训练框架与算子优化，算法类编制"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法；计算图/算子融合/内存布局优化",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "minimax-infra-03",
+      "company_id": "minimax",
+      "title": "MaaS 平台研发工程师-2027届",
+      "direction": "infra",
+      "skills": [
+        "模型服务化",
+        "部署工具链",
+        "推理服务优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7657846664309229867/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "多模型管理与发布、灰度回滚等工程体系"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜研发",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "minimax-infra-04",
+      "company_id": "minimax",
+      "title": "存储系统研发工程师-2027届",
+      "direction": "infra",
+      "skills": [
+        "KVcache 管理",
+        "分布式存储",
+        "推理场景缓存"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7657839993293064484/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "面向大模型推理的 KVcache 前沿方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜研发",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "minimax-infra-05",
+      "company_id": "minimax",
+      "title": "IaaS 研发工程师-2027届",
+      "direction": "infra",
+      "skills": [
+        "GPU 集群管控",
+        "计算/存储/网络",
+        "AI 负载调度"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7657838672075917587/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "从零构建面向 AI 负载的 IaaS 体系"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜研发",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "minimax-infra-06",
+      "company_id": "minimax",
+      "title": "机器学习系统研发工程师-2027届",
+      "direction": "infra",
+      "skills": [
+        "机器学习平台",
+        "算法框架/工具链",
+        "云原生"
+      ],
+      "degree": "本科",
+      "cities": [
+        "上海",
+        "北京"
+      ],
+      "apply_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7654500111376156964/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "ML 平台基础设施与框架研发"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜研发",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "minimax-infra-07",
+      "company_id": "minimax",
+      "title": "系统研发工程师- AI infra-2027届",
+      "direction": "infra",
+      "skills": [
+        "AI Infra 平台",
+        "CMDB/流程引擎",
+        "后端开发"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7659321008591259946/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "导师制，AI Infra 关键平台建设，相对适合入门"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜研发",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "minimax-infra-08",
+      "company_id": "minimax",
+      "title": "高性能网络研发工程师-2027届",
+      "direction": "infra",
+      "skills": [
+        "高性能网络",
+        "GPU 集群网络",
+        "网络协议栈优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7657835155533236486/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "大规模 GPU 训练/推理集群网络，偏底层"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜研发",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "baichuan-llm-01",
+      "company_id": "baichuan",
+      "title": "【百川星耀计划】大模型算法工程师",
+      "direction": "llm",
+      "skills": [
+        "大语言模型算法",
+        "深度学习",
+        "模型评估与调优"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://cq6qe6bvfr6.jobs.feishu.cn/646926/position/7290816062135503160/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "百川星耀计划校招专项，竞争集中"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法；大模型算法设计、开发、优化与落地",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "baichuan-app-01",
+      "company_id": "baichuan",
+      "title": "【百川星耀计划】AI应用开发工程师",
+      "direction": "app",
+      "skills": [
+        "Agent 框架",
+        "大模型应用架构",
+        "后端开发"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://cq6qe6bvfr6.jobs.feishu.cn/646926/position/7508658568129366283/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "百川星耀计划校招专项"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜工程；构建通用 Agent 框架与大模型应用产品",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "deepseek-llm-01",
+      "company_id": "deepseek",
+      "title": "深度学习研发工程师",
+      "direction": "llm",
+      "skills": [
+        "深度学习",
+        "大模型研发",
+        "PyTorch"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/01416da2-3c8a-4a20-bbb3-1c925d0facf1",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "DeepSeek 重实力不重学历，面试难度极高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜全栈开发/算法；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "deepseek-llm-02",
+      "company_id": "deepseek",
+      "title": "预训练（数据/算法）研究员",
+      "direction": "llm",
+      "skills": [
+        "预训练",
+        "大模型数据",
+        "算法研究"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/25dcb4d9-d250-43ce-8f56-159ddba47c10",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "DeepSeek 核心研究岗，面试难度极高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜深度学习研究员；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "deepseek-llm-03",
+      "company_id": "deepseek",
+      "title": "后训练（数据/算法）研究员",
+      "direction": "llm",
+      "skills": [
+        "后训练",
+        "对齐",
+        "强化学习"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "杭州"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/5d75f4cd-f626-4f73-80c1-e53b2073de76",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "DeepSeek 核心研究岗，面试难度极高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜深度学习研究员；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "deepseek-multimodal-01",
+      "company_id": "deepseek",
+      "title": "多模态理解（数据/算法）研究员",
+      "direction": "multimodal",
+      "skills": [
+        "多模态理解",
+        "视觉语言模型",
+        "数据研究"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "杭州"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/7dcd6fde-84f1-4deb-890c-f1f275df0efc",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "DeepSeek 核心研究岗，面试难度极高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜深度学习研究员；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "deepseek-research-01",
+      "company_id": "deepseek",
+      "title": "Frontier（持续学习/自进化/新范式）研究员",
+      "direction": "research",
+      "skills": [
+        "前沿研究",
+        "持续学习",
+        "新范式探索"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/c7076ca9-558c-4ec3-804b-f21bdfc6135c",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "DeepSeek 前沿探索岗，重研究功底"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜深度学习研究员；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "deepseek-infra-01",
+      "company_id": "deepseek",
+      "title": "大模型训练/推理框架工程师",
+      "direction": "infra",
+      "skills": [
+        "训练框架",
+        "推理框架",
+        "分布式系统"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "杭州"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/43f8551a-4235-4d5e-a9a7-44386cd79795",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "DeepSeek AI 核心系统研发，系统功底要求高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜AI 核心系统研发；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "deepseek-infra-02",
+      "company_id": "deepseek",
+      "title": "高性能算子/通信/编译器工程师",
+      "direction": "infra",
+      "skills": [
+        "高性能算子",
+        "通信优化",
+        "编译器"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "杭州"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/aed2a32c-189f-4338-b901-9b45d2b7edfd",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "底层性能优化，偏硬核"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜AI 核心系统研发；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "deepseek-infra-03",
+      "company_id": "deepseek",
+      "title": "超算集群研发工程师",
+      "direction": "infra",
+      "skills": [
+        "超算集群",
+        "GPU 集群",
+        "分布式训练"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "杭州"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/cdccf456-207f-4ea0-9fdd-c30a5ce42d5b",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "大规模算力集群研发"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜AI 核心系统研发；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "deepseek-infra-04",
+      "company_id": "deepseek",
+      "title": "Agent Infra 研发工程师",
+      "direction": "infra",
+      "skills": [
+        "Agent 基础设施",
+        "后端开发",
+        "大模型应用"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "杭州"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/bae809fb-1978-4401-b209-34067b26569d",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "Agent 方向基建"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜全栈开发/算法；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "deepseek-llm-04",
+      "company_id": "deepseek",
+      "title": "AI 搜索算法 / 架构工程师",
+      "direction": "llm",
+      "skills": [
+        "AI 搜索",
+        "检索算法",
+        "系统架构"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/1df4597d-6039-4392-9954-0df72510f415",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "搜索算法与架构复合岗"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜全栈开发/算法；官网开放岗，统一接受应届生",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bytedance-infra-01",
+      "company_id": "bytedance",
+      "title": "大模型推理系统工程师 - 火山方舟（2027届）",
+      "direction": "infra",
+      "skills": [
+        "大模型推理系统",
+        "分布式系统",
+        "模型服务平台"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州",
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://jobs.bytedance.com/campus/position/7669717661270608181/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "火山方舟大模型服务平台，机器学习方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘，职位ID A78196A",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bytedance-infra-02",
+      "company_id": "bytedance",
+      "title": "大模型训练系统工程师 - 火山方舟（2027届）",
+      "direction": "infra",
+      "skills": [
+        "分布式训练",
+        "训练系统",
+        "大模型平台"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州",
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://jobs.bytedance.com/campus/position/7669705537843382581/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "火山方舟，机器学习方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘，职位ID A90860",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bytedance-app-01",
+      "company_id": "bytedance",
+      "title": "大模型后端开发工程师 - 火山方舟（2027届）",
+      "direction": "app",
+      "skills": [
+        "后端开发",
+        "大模型应用平台",
+        "服务端架构"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州",
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://jobs.bytedance.com/campus/position/7670458147907209525/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "火山方舟平台研发，工程向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘，职位ID A07307B",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bytedance-multimodal-01",
+      "company_id": "bytedance",
+      "title": "视觉多模态大模型应用算法工程师 - Seed大模型人才校招（2027届）",
+      "direction": "multimodal",
+      "skills": [
+        "视觉多模态大模型",
+        "计算机视觉",
+        "深度学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://jobs.bytedance.com/campus/position/7622244680471529733/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "Seed 大模型人才专项，竞争集中在头部"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届Seed大模型人才校招，职位ID A41706",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bytedance-llm-01",
+      "company_id": "bytedance",
+      "title": "大语言模型算法工程师 - Seed大模型人才校招（2027届）",
+      "direction": "llm",
+      "skills": [
+        "大语言模型",
+        "深度学习",
+        "NLP"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://jobs.bytedance.com/campus/position/7622485584813279541/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "Seed 大模型人才专项"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届Seed大模型人才校招，职位ID A113932",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bytedance-infra-03",
+      "company_id": "bytedance",
+      "title": "大模型训练/推理优化工程师 - Seed大模型人才校招（2027届）",
+      "direction": "infra",
+      "skills": [
+        "训练/推理优化",
+        "GPU 优化",
+        "分布式系统"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://jobs.bytedance.com/campus/position/7622926628482959669/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "Seed 专项，机器学习方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届Seed大模型人才校招，职位ID A155305A",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bytedance-multimodal-02",
+      "company_id": "bytedance",
+      "title": "音频多模态算法工程师 - Seed大模型人才校招（2027届）",
+      "direction": "multimodal",
+      "skills": [
+        "音频多模态",
+        "语音技术",
+        "深度学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://jobs.bytedance.com/campus/position/7622996922623297797/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "Seed 大模型人才专项"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届Seed大模型人才校招，职位ID A61962",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bytedance-infra-04",
+      "company_id": "bytedance",
+      "title": "视觉大模型推理优化工程师 - Seed大模型人才校招（2027届）",
+      "direction": "infra",
+      "skills": [
+        "推理优化",
+        "视觉大模型",
+        "模型加速"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://jobs.bytedance.com/campus/position/7622230079683053877/detail",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "Seed 专项，机器学习方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届Seed大模型人才校招，职位ID A124512A",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "tencent-llm-01",
+      "company_id": "tencent",
+      "title": "AI算法工程（2027校园招聘）",
+      "direction": "llm",
+      "skills": [
+        "机器学习",
+        "深度学习",
+        "大模型算法"
+      ],
+      "degree": "本科",
+      "cities": [
+        "深圳",
+        "北京",
+        "上海",
+        "广州"
+      ],
+      "apply_url": "https://join.qq.com/post_detail.html?postid=1282707395466077186",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "常规校招通道，多事业群岗位"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届毕业生项目，覆盖 CDG/CSIG/IEG/PCG/TEG/WXG",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "tencent-app-01",
+      "company_id": "tencent",
+      "title": "AI全栈工程师（2027校园招聘）",
+      "direction": "app",
+      "skills": [
+        "全栈开发",
+        "大模型应用",
+        "AI 工程"
+      ],
+      "degree": "本科",
+      "cities": [
+        "深圳",
+        "北京",
+        "上海",
+        "广州",
+        "成都",
+        "杭州"
+      ],
+      "apply_url": "https://join.qq.com/post_detail.html?postid=1282707398326592512",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "2027 校招新增 AI 全栈方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届毕业生项目",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "tencent-app-02",
+      "company_id": "tencent",
+      "title": "Agent开发工程师（2027校园招聘）",
+      "direction": "app",
+      "skills": [
+        "Agent 开发",
+        "大模型应用",
+        "后端开发"
+      ],
+      "degree": "本科",
+      "cities": [
+        "深圳",
+        "北京",
+        "上海",
+        "广州",
+        "成都"
+      ],
+      "apply_url": "https://join.qq.com/post_detail.html?postid=1282707395466077184",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "2027 校招新增 Agent 方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届毕业生项目",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "tencent-infra-01",
+      "company_id": "tencent",
+      "title": "技术研究-高性能计算方向（2027校园招聘）",
+      "direction": "infra",
+      "skills": [
+        "高性能计算",
+        "并行计算",
+        "系统优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "深圳",
+        "北京",
+        "上海",
+        "广州",
+        "成都",
+        "合肥"
+      ],
+      "apply_url": "https://join.qq.com/post_detail.html?postid=1283126460798018560",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "技术研究类，系统功底要求高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届毕业生项目",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "tencent-llm-02",
+      "company_id": "tencent",
+      "title": "混元基座模型-大模型预训练动力学研究（青云计划）",
+      "direction": "llm",
+      "skills": [
+        "预训练",
+        "大模型研究",
+        "深度学习理论"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500697",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "青云计划顶尖人才专项，重研究背景"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届毕业生·青云计划，TEG 混元团队",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "tencent-multimodal-01",
+      "company_id": "tencent",
+      "title": "混元基座模型-视觉理解大模型研究（青云计划）",
+      "direction": "multimodal",
+      "skills": [
+        "视觉理解",
+        "多模态大模型",
+        "计算机视觉"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "深圳"
+      ],
+      "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500622",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "青云计划顶尖人才专项"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届毕业生·青云计划，TEG 混元团队",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "tencent-infra-02",
+      "company_id": "tencent",
+      "title": "混元-新一代大模型分布式训练基础框架研究（青云计划）",
+      "direction": "infra",
+      "skills": [
+        "分布式训练框架",
+        "深度学习系统",
+        "大规模训练"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500660",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "青云计划，混元训练框架方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届毕业生·青云计划",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "tencent-llm-03",
+      "company_id": "tencent",
+      "title": "微信-WeLM多模态大模型Agentic RL研究（青云计划）",
+      "direction": "llm",
+      "skills": [
+        "多模态大模型",
+        "强化学习",
+        "Agent"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500729",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "青云计划，WXG WeLM 基座团队"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届毕业生·青云计划",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "huawei-llm-01",
+      "company_id": "huawei",
+      "title": "AI模型工程师（2027届应届生）",
+      "direction": "llm",
+      "skills": [
+        "大模型算法",
+        "深度学习",
+        "模型训练调优"
+      ],
+      "degree": "本科",
+      "cities": [
+        "苏州",
+        "杭州",
+        "北京",
+        "长沙",
+        "济南",
+        "东莞",
+        "南京",
+        "西安",
+        "成都",
+        "武汉",
+        "上海",
+        "合肥",
+        "深圳"
+      ],
+      "apply_url": "https://career.huawei.com/cn/campus-recruitment-job-list?recruitmentType=FRESH_GRADUATE",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "2027届顶尖AI人才专项相关，研发类"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜更新于2026-08-17；在官网职位列表搜「AI模型工程师」投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "huawei-app-01",
+      "company_id": "huawei",
+      "title": "AI应用工程师（2027届应届生）",
+      "direction": "app",
+      "skills": [
+        "AI 应用开发",
+        "大模型落地",
+        "软件工程"
+      ],
+      "degree": "本科",
+      "cities": [
+        "苏州",
+        "济南",
+        "东莞",
+        "南京",
+        "西安",
+        "杭州",
+        "成都",
+        "武汉",
+        "北京",
+        "长沙",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://career.huawei.com/cn/campus-recruitment-job-list?recruitmentType=FRESH_GRADUATE",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "研发类，应用落地方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜更新于2026-08-17；在官网职位列表搜「AI应用工程师」投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "huawei-infra-01",
+      "company_id": "huawei",
+      "title": "AI Infra工程师（2027届应届生）",
+      "direction": "infra",
+      "skills": [
+        "AI 基础设施",
+        "训练/推理系统",
+        "GPU 集群"
+      ],
+      "degree": "本科",
+      "cities": [
+        "苏州",
+        "杭州",
+        "北京",
+        "长沙",
+        "济南",
+        "东莞",
+        "南京",
+        "西安",
+        "成都",
+        "武汉",
+        "上海",
+        "合肥",
+        "深圳"
+      ],
+      "apply_url": "https://career.huawei.com/cn/campus-recruitment-job-list?recruitmentType=FRESH_GRADUATE",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "研发类，系统功底要求高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜更新于2026-08-17；在官网职位列表搜「AI Infra工程师」投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "kuaishou-llm-01",
+      "company_id": "kuaishou",
+      "title": "大模型应用算法工程师-电商方向（27届校招）",
+      "direction": "llm",
+      "skills": [
+        "LLM 微调/RLHF",
+        "RAG/Agent",
+        "NLP"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州"
+      ],
+      "apply_url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/13024",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "算法类-自然语言处理方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜发布于2026-08-26；JD 已核实",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "kuaishou-llm-02",
+      "company_id": "kuaishou",
+      "title": "【快Star】推荐大模型算法工程师（27届校招）",
+      "direction": "llm",
+      "skills": [
+        "推荐系统",
+        "大模型算法",
+        "机器学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "杭州"
+      ],
+      "apply_url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "快Star人才计划，顶尖岗位"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜发布于2026-08-26；在快手校招站搜索该岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "kuaishou-multimodal-01",
+      "company_id": "kuaishou",
+      "title": "多模态大模型算法工程师（27届校招）",
+      "direction": "multimodal",
+      "skills": [
+        "多模态大模型",
+        "计算机视觉",
+        "深度学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "杭州",
+        "北京"
+      ],
+      "apply_url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "算法类-计算机视觉方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜发布于2026-08-26",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "kuaishou-llm-03",
+      "company_id": "kuaishou",
+      "title": "基础大模型算法工程师-强化学习方向（27届校招）",
+      "direction": "llm",
+      "skills": [
+        "强化学习",
+        "大模型训练",
+        "机器学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "基础大模型核心团队"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜发布于2026-08-26",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "kuaishou-llm-04",
+      "company_id": "kuaishou",
+      "title": "【快Star】大模型应用算法工程师（27届校招）",
+      "direction": "llm",
+      "skills": [
+        "NLP",
+        "大模型应用",
+        "算法研究"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "杭州"
+      ],
+      "apply_url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "快Star人才计划，顶尖岗位"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜发布于2026-08-25",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "kuaishou-infra-01",
+      "company_id": "kuaishou",
+      "title": "大模型数据引擎工程师（27届校招）",
+      "direction": "infra",
+      "skills": [
+        "数据引擎",
+        "分布式系统",
+        "系统架构"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "工程类-系统架构方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜发布于2026-08-25",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "meituan-multimodal-01",
+      "company_id": "meituan",
+      "title": "【LongCat大模型人才校招】基础模型 - 多模态（应届）",
+      "direction": "multimodal",
+      "skills": [
+        "原生多模态基础模型",
+        "视觉表征学习",
+        "多模态生成"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4529954465&highlightType=campus",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "美团龙猫（LongCat）基座大模型团队专项"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届；最多可投递3个职位",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "meituan-llm-01",
+      "company_id": "meituan",
+      "title": "【LongCat大模型人才校招】基础模型 - 预训练（应届）",
+      "direction": "llm",
+      "skills": [
+        "预训练范式",
+        "模型结构探索",
+        "训练策略"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://zhaopin.meituan.com/web/position?hiringType=4_1",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "LongCat 基座团队，预训练核心方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届；在美团招聘官网搜索岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "meituan-infra-01",
+      "company_id": "meituan",
+      "title": "【LongCat大模型人才校招】基座大模型工程架构专家（应届）",
+      "direction": "infra",
+      "skills": [
+        "分布式训练架构",
+        "万卡集群",
+        "推理架构与量化压缩"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://zhaopin.meituan.com/web/position?hiringType=4_1",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "万亿参数模型训练/推理架构，工程要求极高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届；在美团招聘官网搜索岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "meituan-multimodal-02",
+      "company_id": "meituan",
+      "title": "【LongCat大模型人才校招】语音大模型算法研究员（应届）",
+      "direction": "multimodal",
+      "skills": [
+        "语音大模型",
+        "LLM-ASR",
+        "端到端语音识别"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://zhaopin.meituan.com/web/position?hiringType=4_1",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "LongCat 全场景语音大模型方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届；在美团招聘官网搜索岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "meituan-llm-02",
+      "company_id": "meituan",
+      "title": "【LongCat大模型人才校招】大模型算法研究员-Search Agent方向（应届）",
+      "direction": "llm",
+      "skills": [
+        "Agentic RL",
+        "长程多步任务",
+        "奖励建模"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://zhaopin.meituan.com/web/position?hiringType=4_1",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "LongCat Agent 算法团队"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届；在美团招聘官网搜索岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "meituan-llm-03",
+      "company_id": "meituan",
+      "title": "【北斗】广告大模型算法工程师-大模型应用（应届）",
+      "direction": "llm",
+      "skills": [
+        "广告大模型",
+        "营销创意生成",
+        "个性化推荐"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://zhaopin.meituan.com/web/position?hiringType=4_1",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "北斗计划（美团顶尖校招项目）"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜应届；在美团招聘官网搜索岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "jd-multimodal-01",
+      "company_id": "jd",
+      "title": "算法工程师-多模态大模型（2027校招）",
+      "direction": "multimodal",
+      "skills": [
+        "计算机视觉",
+        "图像/视频理解",
+        "深度学习"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://campus.jd.com/#/jobs",
+      "deadline": "2026-11-30",
+      "difficulty": {
+        "level": "中",
+        "note": "热招岗；覆盖京东零售/物流/科技/健康等业务"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜新星计划网申截止 2026-11-30；在京东校招官网搜索岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "jd-llm-01",
+      "company_id": "jd",
+      "title": "算法工程师-语言大模型（2027校招）",
+      "direction": "llm",
+      "skills": [
+        "NLP",
+        "语言模型",
+        "智能对话",
+        "知识图谱"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://campus.jd.com/#/jobs",
+      "deadline": "2026-11-30",
+      "difficulty": {
+        "level": "中",
+        "note": "覆盖京东多业务线 NLP 场景"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜新星计划网申截止 2026-11-30；在京东校招官网搜索岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "jd-multimodal-02",
+      "company_id": "jd",
+      "title": "算法工程师-语音/音频大模型（2027校招）",
+      "direction": "multimodal",
+      "skills": [
+        "语音识别/合成",
+        "声纹与情感计算",
+        "语音大模型"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://campus.jd.com/#/jobs",
+      "deadline": "2026-11-30",
+      "difficulty": {
+        "level": "中",
+        "note": "京东科技语音方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜新星计划网申截止 2026-11-30；在京东校招官网搜索岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "iflytek-research-01",
+      "company_id": "iflytek",
+      "title": "AI研究算法工程师（飞星计划，2027届硕博）",
+      "direction": "research",
+      "skills": [
+        "语音/视觉/NLP",
+        "深度学习",
+        "大模型研究"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "合肥",
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://iflytek.zhiye.com/campus/jobs",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "飞星计划为讯飞研究院顶尖人才专项，面向 2027 届硕博"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜覆盖语音、视觉、NLP、深度学习方向；具体岗位以官网为准",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "xiaomi-research-01",
+      "company_id": "xiaomi",
+      "title": "大模型推理增强研究员（2027届校招）",
+      "direction": "research",
+      "skills": [
+        "模型推理能力优化",
+        "科学问题求解",
+        "推理评测"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7668582520224844038/detail?spread=J7NS6YR",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "研究向，提升大模型在科学/艺术领域推理能力"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜软件研发类",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "xiaomi-multimodal-01",
+      "company_id": "xiaomi",
+      "title": "视觉理解大模型算法工程师（2027届校招）",
+      "direction": "multimodal",
+      "skills": [
+        "多模态大模型",
+        "计算机视觉",
+        "强化学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923980060707115/detail?spread=J7NS6YR",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "算法类，多模态融合对齐方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "xiaomi-multimodal-02",
+      "company_id": "xiaomi",
+      "title": "多模态大模型算法工程师（2027届校招）",
+      "direction": "multimodal",
+      "skills": [
+        "多模态训练与对齐",
+        "数据飞轮",
+        "推理优化"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670891732025067803/detail?spread=J7NS6YR",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "算法类，训练+对齐+应用落地"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "xiaomi-multimodal-03",
+      "company_id": "xiaomi",
+      "title": "视觉生成大模型算法工程师（2027届校招）",
+      "direction": "multimodal",
+      "skills": [
+        "视觉生成与编辑",
+        "扩散模型",
+        "模型训练优化"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "武汉"
+      ],
+      "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923868647278854/detail?spread=J7NS6YR",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "面向手机/汽车/小爱核心业务"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "xiaomi-infra-01",
+      "company_id": "xiaomi",
+      "title": "大模型推理框架开发工程师（2027届校招）",
+      "direction": "infra",
+      "skills": [
+        "vLLM/SGLang",
+        "推理引擎",
+        "性能优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924463541782810/detail?spread=J7NS6YR",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "推理框架核心研发"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "xiaomi-infra-02",
+      "company_id": "xiaomi",
+      "title": "大模型训练框架开发工程师（2027届校招）",
+      "direction": "infra",
+      "skills": [
+        "PyTorch/DeepSpeed",
+        "Megatron-LM",
+        "分布式训练"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924380851259694/detail?spread=J7NS6YR",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "训练框架设计开发优化"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "xiaomi-infra-03",
+      "company_id": "xiaomi",
+      "title": "大模型推理优化工程师（2027届校招）",
+      "direction": "infra",
+      "skills": [
+        "量化",
+        "并行计算",
+        "访存优化"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7677560508526725414/detail?spread=J7NS6YR",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "推理时延与吞吐优化"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜算法类",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "xiaomi-app-01",
+      "company_id": "xiaomi",
+      "title": "大模型算法工程师-Data Agent方向（2027届校招）",
+      "direction": "app",
+      "skills": [
+        "Text-to-SQL",
+        "Data Agent",
+        "企业数据分析"
+      ],
+      "degree": "本科",
+      "cities": [
+        "武汉"
+      ],
+      "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923368716011830/detail?spread=J7NS6YR",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "分析 Agent 规模化落地"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜软件研发类",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "oppo-llm-01",
+      "company_id": "oppo",
+      "title": "高级AI研究员（内容生成推荐智能体）-博士（2027届）",
+      "direction": "llm",
+      "skills": [
+        "内容生成",
+        "推荐智能体",
+        "大模型研究"
+      ],
+      "degree": "博士",
+      "cities": [
+        "深圳"
+      ],
+      "apply_url": "https://careers.oppo.com/university/oppo/campus/post/1745?recruitType=doctor",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "博士专项，AI/算法类"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届博士生招聘，发布于2026-07-15",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "oppo-llm-02",
+      "company_id": "oppo",
+      "title": "高级AI研究员（智能体记忆和检索）-博士（2027届）",
+      "direction": "llm",
+      "skills": [
+        "Agent 记忆与检索",
+        "RAG",
+        "大模型研究"
+      ],
+      "degree": "博士",
+      "cities": [
+        "深圳"
+      ],
+      "apply_url": "https://careers.oppo.com/university/oppo/campus/post/1746?recruitType=doctor",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "博士专项，AI/算法类"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届博士生招聘，发布于2026-07-15",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "oppo-llm-03",
+      "company_id": "oppo",
+      "title": "高级NLP算法工程师（预训练模型及轻量化方向）-博士（2027届）",
+      "direction": "llm",
+      "skills": [
+        "预训练模型",
+        "模型轻量化",
+        "NLP"
+      ],
+      "degree": "博士",
+      "cities": [
+        "北京",
+        "深圳"
+      ],
+      "apply_url": "https://careers.oppo.com/university/oppo/campus/post/1740?recruitType=doctor",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "博士专项，AI/算法类"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届博士生招聘，发布于2026-07-15",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "honor-other-01",
+      "company_id": "honor",
+      "title": "2027届全球校园招聘 - 研发类（含算法/AI方向）",
+      "direction": "other",
+      "skills": [
+        "算法/AI 研发",
+        "AICoding 能力考察"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "南京",
+        "西安",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://www.honor.com/cn/career/",
+      "deadline": "2026-09-30",
+      "difficulty": {
+        "level": "中",
+        "note": "八大职位类别含研发类，部分岗位增加 AICoding 能力考察"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜面向 2026.10-2027.9 毕业的本科/硕士；具体岗位以官网为准",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "baai-research-01",
+      "company_id": "baai",
+      "title": "2027届校园招聘 - 研究岗（大模型/多模态/具身智能等方向）",
+      "direction": "research",
+      "skills": [
+        "大语言模型",
+        "多模态大模型",
+        "具身智能",
+        "AI 系统"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://mp.weixin.qq.com/s/N_cno5mpM_QxKst5-LVzUA",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "顶尖 AI 研究机构，重研究背景与论文"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2026-07-27 官宣启动；投递链接为官方公众号公告，具体岗位与要求以公告为准",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "netease-llm-01",
+      "company_id": "netease",
+      "title": "大模型算法工程师-网易有道（2027届）",
+      "direction": "llm",
+      "skills": [
+        "大模型算法",
+        "预训练",
+        "模型微调"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州",
+        "北京"
+      ],
+      "apply_url": "https://campus.163.com/app/detail/index?id=4856&projectId=103",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "网易互联网校招人工智能类"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜网易互联网2027届校园招聘",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "netease-multimodal-01",
+      "company_id": "netease",
+      "title": "计算机视觉/多模态大模型算法工程师-网易有道（2027届）",
+      "direction": "multimodal",
+      "skills": [
+        "计算机视觉",
+        "多模态大模型",
+        "深度学习"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州",
+        "北京"
+      ],
+      "apply_url": "https://campus.163.com/app/detail/index?id=4855&projectId=103",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "人工智能类，有道方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜网易互联网2027届校园招聘",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "netease-multimodal-02",
+      "company_id": "netease",
+      "title": "语音交互（端到端/全双工语音）算法工程师-网易有道（2027届）",
+      "direction": "multimodal",
+      "skills": [
+        "端到端语音",
+        "全双工语音交互",
+        "语音大模型"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州",
+        "北京"
+      ],
+      "apply_url": "https://campus.163.com/app/detail/index?id=4854&projectId=103",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "语音方向算法岗"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜网易互联网2027届校园招聘",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "netease-multimodal-03",
+      "company_id": "netease",
+      "title": "音频算法工程师（音频理解和生成）（2027届）",
+      "direction": "multimodal",
+      "skills": [
+        "音频理解",
+        "音频生成",
+        "深度学习"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州"
+      ],
+      "apply_url": "https://campus.163.com/app/detail/index?id=4799&projectId=103",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "人工智能类"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜网易互联网2027届校园招聘",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "netease-llm-02",
+      "company_id": "netease",
+      "title": "大模型算法工程师（AI Agent方向）（2027届）",
+      "direction": "llm",
+      "skills": [
+        "AI Agent",
+        "大模型算法",
+        "强化学习"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州"
+      ],
+      "apply_url": "https://campus.163.com/app/detail/index?id=4800&projectId=103",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "Agent 方向大模型算法"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜网易互联网2027届校园招聘",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "netease-app-01",
+      "company_id": "netease",
+      "title": "AI Agent 应用开发工程师-网易有道（2027届）",
+      "direction": "app",
+      "skills": [
+        "Agent 应用开发",
+        "大模型应用",
+        "后端开发"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://campus.163.com/app/detail/index?id=4858&projectId=103",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "技术类应用开发岗"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜网易互联网2027届校园招聘",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "netease-infra-01",
+      "company_id": "netease",
+      "title": "AI infra工程师（C++）-网易有道（2027届）",
+      "direction": "infra",
+      "skills": [
+        "C++",
+        "AI 基础设施",
+        "推理/训练系统"
+      ],
+      "degree": "本科",
+      "cities": [
+        "杭州",
+        "北京"
+      ],
+      "apply_url": "https://campus.163.com/app/detail/index?id=4857&projectId=103",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "技术类，偏底层工程"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜网易互联网2027届校园招聘",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bilibili-llm-01",
+      "company_id": "bilibili",
+      "title": "大语言模型算法工程师（LLM）【2027届】",
+      "direction": "llm",
+      "skills": [
+        "MoE 预训练",
+        "Agentic RL",
+        "Megatron/Verl",
+        "机器翻译"
+      ],
+      "degree": "本科",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://jobs.bilibili.com/campus/positions/29908",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "JD 已核实：参与大规模 MoE 预训练与 Agentic RL 训练"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜技术类，发布于2026-08-11",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "bilibili-infra-01",
+      "company_id": "bilibili",
+      "title": "AI Native 基础架构工程师【2027届】",
+      "direction": "infra",
+      "skills": [
+        "分布式存储",
+        "大数据架构",
+        "云原生"
+      ],
+      "degree": "本科",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://jobs.bilibili.com/campus/positions/29681",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "JD 已核实：面向 AI 训练的高吞吐低延迟基建"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜技术类，发布于2026-08-27",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "baidu-llm-01",
+      "company_id": "baidu",
+      "title": "2027届校招 - 技术类（大模型算法/智能体算法/Agent Harness研发）",
+      "direction": "llm",
+      "skills": [
+        "大模型算法",
+        "智能体算法",
+        "Agent Harness"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "广州",
+        "杭州",
+        "成都"
+      ],
+      "apply_url": "https://talent.baidu.com/jobs",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "百度文心大模型核心团队方向，算法岗竞争激烈"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜面向 2026.9-2027.8 毕业生，网申全年开放；具体岗位需登录百度招聘官网浏览",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "baidu-infra-01",
+      "company_id": "baidu",
+      "title": "2027届校招 - 技术类（AI Infra研发）",
+      "direction": "infra",
+      "skills": [
+        "AI Infra",
+        "分布式训练",
+        "推理系统"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "广州",
+        "杭州",
+        "成都"
+      ],
+      "apply_url": "https://talent.baidu.com/jobs",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "大模型基础设施方向，系统功底要求高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜面向 2026.9-2027.8 毕业生，网申全年开放；具体岗位需登录百度招聘官网浏览",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "cambricon-infra-01",
+      "company_id": "cambricon",
+      "title": "大模型训练优化工程师-27届",
+      "direction": "infra",
+      "skills": [
+        "大模型训练",
+        "性能优化",
+        "分布式"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/85d1350d-6b8c-4ad4-a67f-2c1d86322f3d",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "国产 AI 芯片核心软件栈方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "cambricon-infra-02",
+      "company_id": "cambricon",
+      "title": "大模型训练框架研发工程师-27届",
+      "direction": "infra",
+      "skills": [
+        "训练框架",
+        "PyTorch",
+        "分布式并行"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/c4320e17-f662-4ba8-bc2c-21afc5468b44",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "面向国产加速卡的训练框架研发"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "cambricon-infra-03",
+      "company_id": "cambricon",
+      "title": "AIGC推理框架研发工程师-27届",
+      "direction": "infra",
+      "skills": [
+        "推理框架",
+        "AIGC",
+        "算子优化"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/92eccec9-8929-4721-930c-6474b173f40b",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "AIGC 推理栈研发，芯片+框架复合"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "cambricon-infra-04",
+      "company_id": "cambricon",
+      "title": "AI编译器研发工程师-27届",
+      "direction": "infra",
+      "skills": [
+        "编译器",
+        "LLVM",
+        "图优化"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/99567c90-3486-490d-8b0d-0470337af13d",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "编译器方向人才稀缺，门槛高"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "cambricon-infra-05",
+      "company_id": "cambricon",
+      "title": "AI 智算平台研发工程师-27届",
+      "direction": "infra",
+      "skills": [
+        "智算平台",
+        "后端开发",
+        "资源调度"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/02b7a8f4-f602-4f65-8383-3089efb2d54a",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "平台工程方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "cambricon-infra-06",
+      "company_id": "cambricon",
+      "title": "高性能计算库开发工程师-27届",
+      "direction": "infra",
+      "skills": [
+        "C++/CUDA",
+        "数学库",
+        "性能优化"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/b21dffc8-e44e-43e2-be5c-0249103fdd6e",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "底层计算库，重 C++/体系结构功底"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "cambricon-app-01",
+      "company_id": "cambricon",
+      "title": "训练解决方案工程师-27届",
+      "direction": "app",
+      "skills": [
+        "大模型训练",
+        "解决方案",
+        "客户支持"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/49aa1cbf-67bc-4283-89c7-25127ad2ab08",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "算法+工程+沟通复合岗"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "cambricon-app-02",
+      "company_id": "cambricon",
+      "title": "AIGC训练解决方案工程师-27届",
+      "direction": "app",
+      "skills": [
+        "AIGC",
+        "模型微调",
+        "解决方案"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://app.mokahr.com/campus-recruitment/cambricon/44201#/job/faa68560-d583-4584-bb88-7666f6c138ed",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "AIGC 落地支持方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "xiaohongshu-llm-01",
+      "company_id": "xiaohongshu",
+      "title": "【REDstar】基础模型算法工程师-Post-training",
+      "direction": "llm",
+      "skills": [
+        "LLM Post-training",
+        "对齐",
+        "强化学习"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "杭州"
+      ],
+      "apply_url": "https://job.xiaohongshu.com/campus/position/20888",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "REDstar 顶尖人才计划，基座模型核心方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜面向 2024.9-2027.8 毕业的本硕博；每人 2 个志愿",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "xiaohongshu-multimodal-01",
+      "company_id": "xiaohongshu",
+      "title": "【REDstar】多模态基础模型算法工程师",
+      "direction": "multimodal",
+      "skills": [
+        "多模态大模型",
+        "持续预训练",
+        "感知-推理-交互"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://job.xiaohongshu.com/campus/position/20887",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "REDstar 计划，下一代多模态智能基座"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜REDstar 顶尖人才计划",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "xiaohongshu-app-01",
+      "company_id": "xiaohongshu",
+      "title": "【REDstar】AI Agent算法工程师",
+      "direction": "app",
+      "skills": [
+        "AI Agent",
+        "C 端智能体",
+        "大模型应用"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://job.xiaohongshu.com/campus/position/20889",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "REDstar 计划，站内 C 端 Agent「点点」研发"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜REDstar 顶尖人才计划",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "xiaohongshu-infra-01",
+      "company_id": "xiaohongshu",
+      "title": "【REDstar】机器学习框架工程师-搜广推方向",
+      "direction": "infra",
+      "skills": [
+        "深度学习框架",
+        "高性能训推",
+        "搜广推系统"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "apply_url": "https://job.xiaohongshu.com/campus/position/20877",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "REDstar 计划，引擎架构部"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜REDstar 顶尖人才计划",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "xiaohongshu-multimodal-02",
+      "company_id": "xiaohongshu",
+      "title": "【REDstar】视觉与多模态算法工程师",
+      "direction": "multimodal",
+      "skills": [
+        "图像编辑",
+        "视频理解",
+        "内容创作算法"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "apply_url": "https://job.xiaohongshu.com/campus/position/20878",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "REDstar 计划"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜REDstar 顶尖人才计划",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "xiaohongshu-app-02",
+      "company_id": "xiaohongshu",
+      "title": "【REDstar】Agent/大模型算法工程师 - 国际化",
+      "direction": "app",
+      "skills": [
+        "VLM",
+        "Agent",
+        "多模态融合"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "新加坡"
+      ],
+      "apply_url": "https://job.xiaohongshu.com/campus/position/20876",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "REDstar 计划，国际化方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜REDstar 顶尖人才计划",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "xiaohongshu-app-03",
+      "company_id": "xiaohongshu",
+      "title": "【REDstar】智能客服算法工程师（LLM Agent方向）",
+      "direction": "app",
+      "skills": [
+        "LLM Agent",
+        "多轮对话",
+        "意图理解"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "上海",
+        "杭州"
+      ],
+      "apply_url": "https://job.xiaohongshu.com/campus/position/20875",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "REDstar 计划"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜REDstar 顶尖人才计划",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "xiaohongshu-app-04",
+      "company_id": "xiaohongshu",
+      "title": "【REDstar】大模型应用算法工程师 - rednote国际化",
+      "direction": "app",
+      "skills": [
+        "LLM 应用",
+        "机器翻译",
+        "多模态"
+      ],
+      "degree": "不限",
+      "cities": [
+        "北京",
+        "杭州",
+        "新加坡"
+      ],
+      "apply_url": "https://job.xiaohongshu.com/campus/position/20871",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "REDstar 计划，rednote 国际化"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜REDstar 顶尖人才计划",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": true
+    },
+    {
+      "id": "antgroup-app-01",
+      "company_id": "antgroup",
+      "title": "智能体与大模型应用工程",
+      "direction": "app",
+      "skills": [
+        "智能体",
+        "大模型应用",
+        "工程研发"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "上海",
+        "杭州",
+        "广州",
+        "深圳",
+        "重庆",
+        "成都"
+      ],
+      "apply_url": "https://talent.antgroup.com/campus-full-list?type=campus_graduates",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "技术类，蚂蚁 27 届校招核心方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜毕业时间要求 2026.11-2027.10；在官方列表页搜岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "antgroup-llm-01",
+      "company_id": "antgroup",
+      "title": "大模型智能体优化算法",
+      "direction": "llm",
+      "skills": [
+        "智能体优化",
+        "大模型算法",
+        "强化学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "杭州",
+        "广州",
+        "重庆"
+      ],
+      "apply_url": "https://talent.antgroup.com/campus-full-list?type=campus_graduates",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "技术类"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜在官方列表页搜岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "antgroup-research-01",
+      "company_id": "antgroup",
+      "title": "模型基准和评估",
+      "direction": "research",
+      "skills": [
+        "模型评测",
+        "Benchmark",
+        "大模型能力评估"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "杭州",
+        "重庆"
+      ],
+      "apply_url": "https://talent.antgroup.com/campus-full-list?type=campus_graduates",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "技术类，评测方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜在官方列表页搜岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "antgroup-multimodal-01",
+      "company_id": "antgroup",
+      "title": "多模态理解和生成算法",
+      "direction": "multimodal",
+      "skills": [
+        "多模态理解",
+        "生成算法",
+        "深度学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "杭州",
+        "重庆"
+      ],
+      "apply_url": "https://talent.antgroup.com/campus-full-list?type=campus_graduates",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "技术类"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜在官方列表页搜岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "antgroup-infra-01",
+      "company_id": "antgroup",
+      "title": "大模型算法与系统协同优化",
+      "direction": "infra",
+      "skills": [
+        "算法系统协同",
+        "训推优化",
+        "系统架构"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "上海",
+        "杭州"
+      ],
+      "apply_url": "https://talent.antgroup.com/campus-full-list?type=campus_graduates",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "技术类，算法+系统复合"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜在官方列表页搜岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "antgroup-infra-02",
+      "company_id": "antgroup",
+      "title": "基础平台研发工程师-Scala/Rust",
+      "direction": "infra",
+      "skills": [
+        "Scala/Rust",
+        "基础平台",
+        "分布式系统"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://talent.antgroup.com/campus-full-list?type=campus_graduates",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "技术类，平台研发"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜在官方列表页搜岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "antgroup-app-02",
+      "company_id": "antgroup",
+      "title": "FDE-前线部署工程师",
+      "direction": "app",
+      "skills": [
+        "大模型部署",
+        "技术支持",
+        "工程交付"
+      ],
+      "degree": "本科",
+      "cities": [
+        "北京",
+        "杭州"
+      ],
+      "apply_url": "https://talent.antgroup.com/campus-full-list?type=campus_graduates",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "技术类，大模型落地交付方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜在官方列表页搜岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "antgroup-other-01",
+      "company_id": "antgroup",
+      "title": "搜索推荐广告算法",
+      "direction": "other",
+      "skills": [
+        "推荐算法",
+        "搜索算法",
+        "广告算法"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "上海",
+        "杭州"
+      ],
+      "apply_url": "https://talent.antgroup.com/campus-full-list?type=campus_graduates",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "技术类，经典高竞争方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜在官方列表页搜岗位名投递",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "ctrip-app-01",
+      "company_id": "ctrip",
+      "title": "AI Solution (Customer Service Intelligence)（2027届）",
+      "direction": "app",
+      "skills": [
+        "AI Chatbot",
+        "智能客服",
+        "数据分析"
+      ],
+      "degree": "本科",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://careers.ctrip.com/campus#/campus/job-detail/MJ036717",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "支持类，智能客服方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜毕业时间 2026.9-2027.8；本岗位为 Arabic 方向，官网另有其他语种/方向同类岗",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    },
+    {
+      "id": "ctrip-other-01",
+      "company_id": "ctrip",
+      "title": "数据分析师（技术方向）（2027届秋招）",
+      "direction": "other",
+      "skills": [
+        "数据分析",
+        "AI & BI",
+        "SQL"
+      ],
+      "degree": "本科",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://careers.ctrip.com/campus#/campus/job-detail/MJ036670",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "AI & BI 方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-08-28",
+      "headcount": null,
+      "note": "全职｜毕业时间 2026.9-2027.8",
+      "last_verified_at": "2026-08-28",
+      "phd_preferred": false
+    }
+  ]
+}

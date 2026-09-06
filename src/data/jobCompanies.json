@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "id": "moonshot",
+      "name": "月之暗面（Moonshot AI / Kimi）",
+      "group": "ai_native",
+      "career_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507",
+      "ats": "moka",
+      "note": "官方 Moka 校招页，仅收录全职校招岗"
+    },
+    {
+      "id": "stepfun",
+      "name": "阶跃星辰（StepFun）",
+      "group": "ai_native",
+      "career_url": "https://app.mokahr.com/campus-recruitment/step/141903",
+      "ats": "moka",
+      "note": "StepStar 顶尖人才计划，2027 届秋招"
+    },
+    {
+      "id": "sensetime",
+      "name": "商汤科技（SenseTime）",
+      "group": "ai_native",
+      "career_url": "https://hr.sensetime.com/campus",
+      "ats": "custom",
+      "note": "商汤 2027 校园招聘（毕业时间 2026.9-2027.12）"
+    },
+    {
+      "id": "modelbest",
+      "name": "面壁智能（ModelBest）",
+      "group": "ai_native",
+      "career_url": "https://www.modelbest.cn/",
+      "ats": "manual",
+      "note": "「前进四」顶尖人才计划，面向 2027 年及以后毕业硕博，邮箱投递"
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax",
+      "group": "ai_native",
+      "career_url": "http://www.minimaxi.com/careers",
+      "ats": "feishu",
+      "note": "2027 届校园招聘，飞书校招站，岗位以 AI Infra/系统为主"
+    },
+    {
+      "id": "deepseek",
+      "name": "深度求索（DeepSeek）",
+      "group": "ai_native",
+      "career_url": "https://talent.deepseek.com/",
+      "ats": "moka",
+      "note": "无独立校招通道，官网在招岗位统一接受应届生投递"
+    },
+    {
+      "id": "baichuan",
+      "name": "百川智能（Baichuan）",
+      "group": "ai_native",
+      "career_url": "https://cq6qe6bvfr6.jobs.feishu.cn/646926",
+      "ats": "feishu",
+      "note": "「百川星耀计划」校招专项（2027 源点计划）"
+    },
+    {
+      "id": "bytedance",
+      "name": "字节跳动",
+      "group": "big_tech",
+      "career_url": "https://jobs.bytedance.com/campus/position",
+      "ats": "custom",
+      "note": "2027 届校招 + Seed 大模型人才校招专项"
+    },
+    {
+      "id": "tencent",
+      "name": "腾讯",
+      "group": "big_tech",
+      "career_url": "https://join.qq.com/post.html",
+      "ats": "custom",
+      "note": "2027 校园招聘 + 青云计划顶尖人才专项"
+    },
+    {
+      "id": "huawei",
+      "name": "华为",
+      "group": "big_tech",
+      "career_url": "https://career.huawei.com/cn/campus-recruitment-job-list?recruitmentType=FRESH_GRADUATE",
+      "ats": "custom",
+      "note": "2027 届应届生招聘（含顶尖 AI 人才专项）"
+    },
+    {
+      "id": "kuaishou",
+      "name": "快手",
+      "group": "big_tech",
+      "career_url": "https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607",
+      "ats": "custom",
+      "note": "27 届校园招聘（含快Star人才计划）"
+    },
+    {
+      "id": "meituan",
+      "name": "美团",
+      "group": "big_tech",
+      "career_url": "https://zhaopin.meituan.com/web/campus",
+      "ats": "custom",
+      "note": "2027 应届校招（含 LongCat 大模型人才校招、北斗计划）"
+    },
+    {
+      "id": "jd",
+      "name": "京东",
+      "group": "big_tech",
+      "career_url": "https://campus.jd.com/#/jobs",
+      "ats": "custom",
+      "note": "2027 校园招聘（JDS 新星计划，网申 8.3-11.30）"
+    },
+    {
+      "id": "iflytek",
+      "name": "科大讯飞",
+      "group": "big_tech",
+      "career_url": "https://iflytek.zhiye.com/campus/jobs",
+      "ats": "zhiye",
+      "note": "2027 届秋季校园招聘（含飞星计划顶尖人才专项）"
+    },
+    {
+      "id": "xiaomi",
+      "name": "小米",
+      "group": "big_tech",
+      "career_url": "https://xiaomi.jobs.f.mioffice.cn/campus/?spread=J7NS6YR",
+      "ats": "feishu",
+      "note": "2027 届全球校园招聘计划（AI 岗位需求同比增长 50%）"
+    },
+    {
+      "id": "oppo",
+      "name": "OPPO",
+      "group": "big_tech",
+      "career_url": "https://careers.oppo.com/university/oppo/campus/",
+      "ats": "custom",
+      "note": "2027 届校园招聘（大模型方向集中于博士生招聘，每人限投 2 岗）"
+    },
+    {
+      "id": "honor",
+      "name": "荣耀（HONOR）",
+      "group": "big_tech",
+      "career_url": "https://www.honor.com/cn/career/",
+      "ats": "custom",
+      "note": "2027 届全球校园招聘，简历投递截止 2026-09-30"
+    },
+    {
+      "id": "baai",
+      "name": "北京智源人工智能研究院（BAAI）",
+      "group": "foreign_lab",
+      "career_url": "https://www.baai.ac.cn/zh-cn",
+      "ats": "manual",
+      "note": "2027 届校园招聘已于 2026-07-27 启动（智源星计划）"
+    },
+    {
+      "id": "netease",
+      "name": "网易",
+      "group": "big_tech",
+      "career_url": "https://campus.163.com/app/job/position?id=103",
+      "ats": "custom",
+      "note": "网易互联网 2027 届校招（含有道等；互娱/雷火游戏另有独立站点）"
+    },
+    {
+      "id": "bilibili",
+      "name": "哔哩哔哩（B站）",
+      "group": "big_tech",
+      "career_url": "https://jobs.bilibili.com/campus/positions",
+      "ats": "custom",
+      "note": "2027 届校园招聘（94 个岗位中含大模型/AI 基建岗）"
+    },
+    {
+      "id": "baidu",
+      "name": "百度",
+      "group": "big_tech",
+      "career_url": "https://talent.baidu.com/jobs",
+      "ats": "custom",
+      "note": "2027 届校招全年开放（7.9 起）；职位列表需登录官网浏览"
+    },
+    {
+      "id": "cambricon",
+      "name": "寒武纪（Cambricon）",
+      "group": "ai_native",
+      "career_url": "https://app.mokahr.com/campus-recruitment/cambricon/44201",
+      "ats": "moka",
+      "note": "AI 芯片上市公司，2027 届校招 59 岗（芯片/软件/职能三类），限投 3 次"
+    },
+    {
+      "id": "xiaohongshu",
+      "name": "小红书",
+      "group": "big_tech",
+      "career_url": "https://job.xiaohongshu.com/campus/position",
+      "ats": "custom",
+      "note": "2027 届校招 + REDstar 顶尖人才计划（基座大模型/Agent/Infra/多模态/语音），应届生岗 54 个"
+    },
+    {
+      "id": "antgroup",
+      "name": "蚂蚁集团（Ant Group）",
+      "group": "big_tech",
+      "career_url": "https://talent.antgroup.com/campus-full-list?type=campus_graduates",
+      "ats": "custom",
+      "note": "2027 届应届生招聘（毕业时间 2026.11-2027.10），应届生岗 69 个，官方称超 80% 为 AI 相关"
+    },
+    {
+      "id": "ctrip",
+      "name": "携程集团（Trip.com Group）",
+      "group": "big_tech",
+      "career_url": "https://careers.ctrip.com/campus#/campus/jobList",
+      "ats": "custom",
+      "note": "2027 届秋招 53 岗（毕业时间 2026.9-2027.8）；核心大模型方向可在职位类型筛「技术」"
+    }
+  ]
+}
