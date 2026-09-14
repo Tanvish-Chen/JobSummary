@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06",
+  "updated_at": "2026-09-14",
   "jobs": [
     {
       "id": "moonshot-llm-01",
@@ -27,7 +27,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法类，发布于2026-08-14；3个月内限投3个职位",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -55,7 +55,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法类；研究基于 Long CoT 的大模型强化学习（算法或系统）",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -83,7 +83,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法类",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -111,7 +111,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法类，发布于2026-07-10",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -140,7 +140,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜技术类，发布于2026-08-14",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -169,7 +169,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜技术类，发布于2026-08-14",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -197,7 +197,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜技术类，发布于2026-08-14",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -225,7 +225,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜技术类，发布于2026-08-14",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -253,7 +253,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜技术类，发布于2026-08-14",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -282,7 +282,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究；负责下一代预训练范式研究与 Scale up",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -311,7 +311,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究；数据采集、清洗、去重、配比与版本管理",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -340,7 +340,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究；新型架构探索",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -369,7 +369,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究；围绕代码、数学、推理、长上下文的能力增强",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -398,7 +398,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -427,7 +427,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究；代码数据合成与中程/后训练质量提升",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -456,7 +456,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究；语音理解、合成、音乐与实时语音",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -485,7 +485,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究；分布式大模型推理框架",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -514,7 +514,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究；LLM/多模态预训练与后训练框架",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -543,7 +543,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法研究",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -572,7 +572,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜工程研发；自研通信库与网络管控平台",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -603,7 +603,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "2027 届校招提前批；面向 2026.9-2027.12 毕业生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -634,7 +634,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "2027 届校招提前批",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -665,7 +665,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "2027 届校招提前批",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -696,7 +696,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "2027 届校招提前批",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -727,7 +727,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "2027 届校招提前批",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -761,7 +761,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全年接受申请；投递邮箱 career@modelbest.cn；2026-08-26 启动",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": true
     },
     {
@@ -790,7 +790,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜研发；支撑大模型数据清洗/分类/采样场景",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -819,7 +819,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法；计算图/算子融合/内存布局优化",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -848,7 +848,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜研发",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -877,7 +877,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜研发",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -906,7 +906,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜研发",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -935,7 +935,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜研发",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -964,7 +964,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜研发",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -993,7 +993,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜研发",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": false
     },
     {
@@ -1021,7 +1021,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜算法；大模型算法设计、开发、优化与落地",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -1049,7 +1049,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜工程；构建通用 Agent 框架与大模型应用产品",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -1077,7 +1077,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜全栈开发/算法；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1105,7 +1105,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜深度学习研究员；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1134,7 +1134,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜深度学习研究员；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1163,7 +1163,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜深度学习研究员；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1191,7 +1191,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜深度学习研究员；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1220,7 +1220,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜AI 核心系统研发；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1249,7 +1249,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜AI 核心系统研发；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1278,7 +1278,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜AI 核心系统研发；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1307,7 +1307,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜全栈开发/算法；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1335,7 +1335,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜全栈开发/算法；官网开放岗，统一接受应届生",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1955,7 +1955,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜发布于2026-08-26；JD 已核实",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -1984,7 +1984,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜发布于2026-08-26；在快手校招站搜索该岗位名投递",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": true
     },
     {
@@ -2013,7 +2013,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜发布于2026-08-26",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2041,7 +2041,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜发布于2026-08-26",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2070,7 +2070,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜发布于2026-08-25",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": true
     },
     {
@@ -2098,7 +2098,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜发布于2026-08-25",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2300,7 +2300,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜新星计划网申截止 2026-11-30；在京东校招官网搜索岗位名投递",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -2331,7 +2331,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜新星计划网申截止 2026-11-30；在京东校招官网搜索岗位名投递",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -2359,7 +2359,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜新星计划网申截止 2026-11-30；在京东校招官网搜索岗位名投递",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -2389,7 +2389,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜覆盖语音、视觉、NLP、深度学习方向；具体岗位以官网为准",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": true
     },
     {
@@ -2641,7 +2641,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届博士生招聘，发布于2026-07-15",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": true
     },
     {
@@ -2669,7 +2669,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届博士生招聘，发布于2026-07-15",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": true
     },
     {
@@ -2698,7 +2698,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届博士生招聘，发布于2026-07-15",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": true
     },
     {
@@ -2758,7 +2758,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2026-07-27 官宣启动；投递链接为官方公众号公告，具体岗位与要求以公告为准",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -2787,7 +2787,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜网易互联网2027届校园招聘",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2816,7 +2816,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜网易互联网2027届校园招聘",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2845,7 +2845,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜网易互联网2027届校园招聘",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2873,7 +2873,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜网易互联网2027届校园招聘",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2901,7 +2901,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜网易互联网2027届校园招聘",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2929,7 +2929,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜网易互联网2027届校园招聘",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2958,7 +2958,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜网易互联网2027届校园招聘",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -2987,7 +2987,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜技术类，发布于2026-08-11",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -3015,7 +3015,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜技术类，发布于2026-08-27",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -3048,7 +3048,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜面向 2026.9-2027.8 毕业生，网申全年开放；具体岗位需登录百度招聘官网浏览",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -3081,7 +3081,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜面向 2026.9-2027.8 毕业生，网申全年开放；具体岗位需登录百度招聘官网浏览",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -3111,7 +3111,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -3141,7 +3141,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -3171,7 +3171,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -3201,7 +3201,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -3231,7 +3231,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -3261,7 +3261,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -3291,7 +3291,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -3321,7 +3321,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜2027届校园招聘；具体工作城市见职位详情页",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-14",
       "phd_preferred": false
     },
     {
@@ -3351,7 +3351,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜面向 2024.9-2027.8 毕业的本硕博；每人 2 个志愿",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -3380,7 +3380,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜REDstar 顶尖人才计划",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -3409,7 +3409,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜REDstar 顶尖人才计划",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -3439,7 +3439,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜REDstar 顶尖人才计划",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -3468,7 +3468,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜REDstar 顶尖人才计划",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -3498,7 +3498,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜REDstar 顶尖人才计划",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -3528,7 +3528,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜REDstar 顶尖人才计划",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -3558,7 +3558,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜REDstar 顶尖人才计划",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-06",
       "phd_preferred": true
     },
     {
@@ -3830,7 +3830,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜毕业时间 2026.9-2027.8；本岗位为 Arabic 方向，官网另有其他语种/方向同类岗",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     },
     {
@@ -3858,7 +3858,7 @@
       "fetched_at": "2026-08-28",
       "headcount": null,
       "note": "全职｜毕业时间 2026.9-2027.8",
-      "last_verified_at": "2026-08-28",
+      "last_verified_at": "2026-09-01",
       "phd_preferred": false
     }
   ]
