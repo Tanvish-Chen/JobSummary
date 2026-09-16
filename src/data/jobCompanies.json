@@ -199,6 +199,46 @@
       "career_url": "https://careers.ctrip.com/campus#/campus/jobList",
       "ats": "custom",
       "note": "2027 届秋招 53 岗（毕业时间 2026.9-2027.8）；核心大模型方向可在职位类型筛「技术」"
+    },
+    {
+      "id": "alibaba",
+      "name": "阿里巴巴（淘天集团）",
+      "group": "big_tech",
+      "career_url": "https://talent.alibaba.com/",
+      "ats": "alibaba",
+      "note": "2027 届已于 2026-08-05 启动，AI 技术类岗位占比超九成；每人 2 个志愿、仅 1 次投递机会"
+    },
+    {
+      "id": "zgyd",
+      "name": "中国移动（集团 / 专业公司）",
+      "group": "big_tech",
+      "career_url": "https://job.10086.cn/personal/campus/campus_job_list.html",
+      "ats": "custom",
+      "note": "2027 校招已全面启动：中移九天（AI/算法开发）、移动云（AI Infra/大模型/推理/Agent）、各省公司"
+    },
+    {
+      "id": "shlab",
+      "name": "上海人工智能实验室",
+      "group": "foreign_lab",
+      "career_url": "https://www.shlab.org.cn/joinus/campus",
+      "ats": "custom",
+      "note": "国际级新型科研机构；2027 届走「留用实习生」通道（毕业时间 2026.10–2027.9）"
+    },
+    {
+      "id": "baitian",
+      "name": "鹏城国家实验室",
+      "group": "foreign_lab",
+      "career_url": "https://hr.pcl.ac.cn",
+      "ats": "custom",
+      "note": "中央批准成立的新型科研机构；研究岗面向博士长期开放，深圳南山"
+    },
+    {
+      "id": "zjlabs",
+      "name": "之江实验室",
+      "group": "foreign_lab",
+      "career_url": "https://talents.zhejianglab.com/",
+      "ats": "custom",
+      "note": "聚焦智能计算；招聘官网校园招聘 50 个在招职位、博士后 31 个，杭州"
     }
   ]
 }

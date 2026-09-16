@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14",
+  "updated_at": "2026-09-16",
   "jobs": [
     {
       "id": "moonshot-llm-01",
@@ -593,7 +593,7 @@
         "香港"
       ],
       "apply_url": "https://hr.sensetime.com/campus",
-      "deadline": "2026-12-31",
+      "deadline": null,
       "difficulty": {
         "level": "高",
         "note": "提前批研究员岗，重研究背景"
@@ -602,8 +602,8 @@
       "source": "official",
       "fetched_at": "2026-08-28",
       "headcount": null,
-      "note": "2027 届校招提前批；面向 2026.9-2027.12 毕业生",
-      "last_verified_at": "2026-09-06",
+      "note": "全职｜2027 届校招岗位需求同比 +35%，并推出「无限原力」顶尖人才计划；全年开放投递、同一时间最多投 3 个岗位、招满即下架；工作地点含北京/上海/深圳/杭州/武汉/中国香港/新加坡等",
+      "last_verified_at": "2026-09-16",
       "phd_preferred": false
     },
     {
@@ -624,7 +624,7 @@
         "香港"
       ],
       "apply_url": "https://hr.sensetime.com/campus",
-      "deadline": "2026-12-31",
+      "deadline": null,
       "difficulty": {
         "level": "高",
         "note": "视频生成方向，重论文与项目"
@@ -633,8 +633,8 @@
       "source": "official",
       "fetched_at": "2026-08-28",
       "headcount": null,
-      "note": "2027 届校招提前批",
-      "last_verified_at": "2026-09-06",
+      "note": "全职｜2027 届校招岗位需求同比 +35%，并推出「无限原力」顶尖人才计划；全年开放投递、同一时间最多投 3 个岗位、招满即下架；工作地点含北京/上海/深圳/杭州/武汉/中国香港/新加坡等",
+      "last_verified_at": "2026-09-16",
       "phd_preferred": false
     },
     {
@@ -655,7 +655,7 @@
         "香港"
       ],
       "apply_url": "https://hr.sensetime.com/campus",
-      "deadline": "2026-12-31",
+      "deadline": null,
       "difficulty": {
         "level": "高",
         "note": "通用智能体研究方向"
@@ -664,8 +664,8 @@
       "source": "official",
       "fetched_at": "2026-08-28",
       "headcount": null,
-      "note": "2027 届校招提前批",
-      "last_verified_at": "2026-09-06",
+      "note": "全职｜2027 届校招岗位需求同比 +35%，并推出「无限原力」顶尖人才计划；全年开放投递、同一时间最多投 3 个岗位、招满即下架；工作地点含北京/上海/深圳/杭州/武汉/中国香港/新加坡等",
+      "last_verified_at": "2026-09-16",
       "phd_preferred": false
     },
     {
@@ -686,7 +686,7 @@
         "香港"
       ],
       "apply_url": "https://hr.sensetime.com/campus",
-      "deadline": "2026-12-31",
+      "deadline": null,
       "difficulty": {
         "level": "高",
         "note": "后训练数据+算法复合"
@@ -695,8 +695,8 @@
       "source": "official",
       "fetched_at": "2026-08-28",
       "headcount": null,
-      "note": "2027 届校招提前批",
-      "last_verified_at": "2026-09-06",
+      "note": "全职｜2027 届校招岗位需求同比 +35%，并推出「无限原力」顶尖人才计划；全年开放投递、同一时间最多投 3 个岗位、招满即下架；工作地点含北京/上海/深圳/杭州/武汉/中国香港/新加坡等",
+      "last_verified_at": "2026-09-16",
       "phd_preferred": false
     },
     {
@@ -717,7 +717,7 @@
         "香港"
       ],
       "apply_url": "https://hr.sensetime.com/campus",
-      "deadline": "2026-12-31",
+      "deadline": null,
       "difficulty": {
         "level": "中",
         "note": "研究+工程混合岗"
@@ -726,8 +726,8 @@
       "source": "official",
       "fetched_at": "2026-08-28",
       "headcount": null,
-      "note": "2027 届校招提前批",
-      "last_verified_at": "2026-09-06",
+      "note": "全职｜2027 届校招岗位需求同比 +35%，并推出「无限原力」顶尖人才计划；全年开放投递、同一时间最多投 3 个岗位、招满即下架；工作地点含北京/上海/深圳/杭州/武汉/中国香港/新加坡等",
+      "last_verified_at": "2026-09-16",
       "phd_preferred": false
     },
     {
@@ -2748,7 +2748,7 @@
         "北京"
       ],
       "apply_url": "https://mp.weixin.qq.com/s/N_cno5mpM_QxKst5-LVzUA",
-      "deadline": null,
+      "deadline": "2026-09-26",
       "difficulty": {
         "level": "高",
         "note": "顶尖 AI 研究机构，重研究背景与论文"
@@ -2757,8 +2757,8 @@
       "source": "official",
       "fetched_at": "2026-08-28",
       "headcount": null,
-      "note": "全职｜2026-07-27 官宣启动；投递链接为官方公众号公告，具体岗位与要求以公告为准",
-      "last_verified_at": "2026-09-14",
+      "note": "全职｜2027 届秋招已正式启动（截止 2026-09-26），方向含 AI 编译器、具身智能大模型算法、AI 安全；投递入口为官方公众号公告",
+      "last_verified_at": "2026-09-16",
       "phd_preferred": false
     },
     {
@@ -3860,6 +3860,452 @@
       "note": "全职｜毕业时间 2026.9-2027.8",
       "last_verified_at": "2026-09-01",
       "phd_preferred": false
+    },
+    {
+      "id": "alibaba-llm-01",
+      "company_id": "alibaba",
+      "title": "算法工程师-大模型应用（淘天集团 2027 届）",
+      "direction": "llm",
+      "skills": [
+        "大模型",
+        "PyTorch",
+        "分布式训练",
+        "模型压缩",
+        "低延迟推理"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "杭州",
+        "北京"
+      ],
+      "apply_url": "https://talent.alibaba.com/",
+      "deadline": "2026-11-30",
+      "difficulty": {
+        "level": "高",
+        "note": "淘天 AI 技术类岗位占比超九成，推荐/搜索/广告场景海量数据，竞争激烈"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜2026-08-05 启动网申至 11 月；每人 2 个志愿、仅 1 次投递机会；8 月中下旬起面试，11 月起发正式 offer",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "alibaba-multimodal-01",
+      "company_id": "alibaba",
+      "title": "算法工程师-多模态 AIGC（淘天集团 2027 届）",
+      "direction": "multimodal",
+      "skills": [
+        "多模态大模型",
+        "AIGC",
+        "生成模型",
+        "计算机视觉"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "杭州",
+        "北京"
+      ],
+      "apply_url": "https://talent.alibaba.com/",
+      "deadline": "2026-11-30",
+      "difficulty": {
+        "level": "高",
+        "note": "多模态生成/理解为淘天重点方向，含数字人、视频生成等课题"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜部门含智能算法产品事业部、淘天业务技术等；岗位持续更新，以校招官网为准",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "alibaba-app-01",
+      "company_id": "alibaba",
+      "title": "AI Agent 优化工程师-训练/数据/评测（淘天集团 2027 届）",
+      "direction": "app",
+      "skills": [
+        "Agent",
+        "大模型评测",
+        "数据工程",
+        "强化学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "杭州",
+        "北京"
+      ],
+      "apply_url": "https://talent.alibaba.com/",
+      "deadline": "2026-11-30",
+      "difficulty": {
+        "level": "高",
+        "note": "AI Agent 为淘天三大核心岗位之一，重工程与场景落地"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜三大核心岗位：AI 应用研发工程师、AI Agent 优化工程师、AI 应用算法工程师",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "alibaba-research-01",
+      "company_id": "alibaba",
+      "title": "淘天-多模态大模型研究（阿里星 / T-Star 顶尖人才计划）",
+      "direction": "research",
+      "skills": [
+        "多模态大模型",
+        "基础研究",
+        "顶会论文"
+      ],
+      "degree": "博士",
+      "cities": [
+        "杭州",
+        "北京"
+      ],
+      "apply_url": "https://talent.alibaba.com/",
+      "deadline": "2026-11-30",
+      "difficulty": {
+        "level": "高",
+        "note": "阿里星/T-Star 顶尖人才专项，面向全球招募，重研究能力与论文"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜顶尖人才专项，博士友好；T-Star Lab 另有 AI Infra、AI Agent、NLP、多模态等专项岗",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": true
+    },
+    {
+      "id": "zgyd-llm-01",
+      "company_id": "zgyd",
+      "title": "算法开发岗（中移九天人工智能科技公司 2027 届）",
+      "direction": "llm",
+      "skills": [
+        "大模型",
+        "算法开发",
+        "Python",
+        "智能体"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京",
+        "西安",
+        "深圳",
+        "广州"
+      ],
+      "apply_url": "https://job.10086.cn/personal/campus/campus_job_list.html?cId=105",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "央企专业公司，硕博占比超 70%，重科研攻关与国家级项目"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜中移九天（数智事业部/九天研究院）面向 2027 届全球高校硕博；流程：网申→统一笔试→技术笔试→AI 面试→两轮面试→体检→offer",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "zgyd-infra-01",
+      "company_id": "zgyd",
+      "title": "AI Infra 工程师（移动云 2027 届）",
+      "direction": "infra",
+      "skills": [
+        "AI Infra",
+        "推理优化",
+        "云原生",
+        "算力调度"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "苏州"
+      ],
+      "apply_url": "https://job.10086.cn/personal/campus/campus_job_list.html",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "移动云总部苏州，研发占比超 80%、硕士及以上超 65%"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜六大核心方向：AI Infra / AI 大模型 / AI 推理 / AI Agent；投递入口以 job.10086.cn 校园招聘板块为准",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "zgyd-research-01",
+      "company_id": "zgyd",
+      "title": "AI 技术研究员（移动云「金种子计划」2027 届）",
+      "direction": "research",
+      "skills": [
+        "大模型",
+        "前沿研究",
+        "智能体"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "苏州"
+      ],
+      "apply_url": "https://job.10086.cn/personal/campus/campus_job_list.html",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "金种子计划为前沿探索型岗位，聚焦国家战略科技方向"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜金种子计划含 AI 技术研究员、量子计算技术研究员；面向 2027 届应届生与 2026 届未就业毕业生",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "shlab-llm-01",
+      "company_id": "shlab",
+      "title": "算法研究员/工程师（2027 届·留用实习生通道）",
+      "direction": "llm",
+      "skills": [
+        "原生多模态",
+        "强化学习",
+        "训练算法",
+        "多智能体",
+        "模型架构",
+        "评测"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://www.shlab.org.cn/joinus/campus",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "国际级新型科研机构，重研究潜力与顶会成果；官网校招页 100+ 职位"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜2027 届走「留用实习生」通道（毕业时间 2026.10–2027.9）；算法类聚焦原生多模态/强化学习/训练算法/多智能体/推理/模型架构/物理智能/评测",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "shlab-infra-01",
+      "company_id": "shlab",
+      "title": "研发工程师-大规模分布式训练框架（2027 届）",
+      "direction": "infra",
+      "skills": [
+        "分布式训练框架",
+        "高性能计算",
+        "AI 系统与架构"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://www.shlab.org.cn/joinus/campus",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "依托超大规模算力平台与数据基座，重系统级能力"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜研发类聚焦：大规模分布式训练框架、高性能计算、AI 系统与架构、基础架构、前后端",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "baitian-research-01",
+      "company_id": "baitian",
+      "title": "研究类岗位-网络智能（研究员/副研究员/助理研究员）",
+      "direction": "research",
+      "skills": [
+        "网络智能",
+        "大模型",
+        "高性能计算",
+        "顶会论文"
+      ],
+      "degree": "博士",
+      "cities": [
+        "深圳"
+      ],
+      "apply_url": "https://hr.pcl.ac.cn",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "要求博士 + 近三年一作/同等身份高水平成果；两院院士领衔、攻关人才超 2000 人"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜面向应（往）届博士与博士后，长期开放；综合收入：研究员 120 万起 / 副研究员 80 万起 / 助理研究员 60 万起 / 博士后 56 万起（含公积金与企业年金）",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": true
+    },
+    {
+      "id": "zjlabs-research-01",
+      "company_id": "zjlabs",
+      "title": "研究专员·人工智能与算法（2027 届校园招聘）",
+      "direction": "research",
+      "skills": [
+        "大模型",
+        "具身智能",
+        "科学数据",
+        "顶会论文"
+      ],
+      "degree": "博士",
+      "cities": [
+        "杭州"
+      ],
+      "apply_url": "https://talents.zhejianglab.com/",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "研究岗以博士为主（优秀硕士可酌情）；聚焦智能计算、科学基础模型与天基计算"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜招聘官网校园招聘 50 个在招职位、博士后 31 个；全职科研专员薪酬一人一议，博士后年薪 30 万起（优秀者 42 万）",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": true
+    },
+    {
+      "id": "baai-infra-01",
+      "company_id": "baai",
+      "title": "工程师（AI 编译器）· AI 系统研究组",
+      "direction": "infra",
+      "skills": [
+        "AI 编译器",
+        "Triton",
+        "TVM",
+        "MLIR",
+        "C++"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://mp.weixin.qq.com/s/N_cno5mpM_QxKst5-LVzUA",
+      "deadline": "2026-09-26",
+      "difficulty": {
+        "level": "高",
+        "note": "要求深入理解编译器原理，熟悉 Triton/TVM/MLIR 者优先"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜2027 届秋招（截止 2026-09-26）；部门：AI 系统研究组",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "baai-research-02",
+      "company_id": "baai",
+      "title": "研究员（具身大模型算法）· 多模态大模型研究中心",
+      "direction": "multimodal",
+      "skills": [
+        "VLA",
+        "多模态",
+        "Diffusion",
+        "Flow Matching",
+        "模仿学习"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://mp.weixin.qq.com/s/N_cno5mpM_QxKst5-LVzUA",
+      "deadline": "2026-09-26",
+      "difficulty": {
+        "level": "高",
+        "note": "具身智能 VLA / WAM 及多模态机器人基础模型方向；预入职实习岗位"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜2027 届秋招（截止 2026-09-26）；要求熟悉 Transformer/多模态/Diffusion/Flow Matching 与模仿学习",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "baai-research-03",
+      "company_id": "baai",
+      "title": "研究员（AI 安全方向-网络对抗）· 可信 AI 安全研究组",
+      "direction": "research",
+      "skills": [
+        "大语言模型",
+        "Agent",
+        "网络攻防",
+        "自动化漏洞挖掘"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://mp.weixin.qq.com/s/N_cno5mpM_QxKst5-LVzUA",
+      "deadline": "2026-09-26",
+      "difficulty": {
+        "level": "高",
+        "note": "研究 LLM/Agent 在网络安全任务中的应用与自动化漏洞挖掘，需独立科研能力"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜2027 届秋招（截止 2026-09-26）；方向与大模型安全/对抗研究背景高度对口",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": false
+    },
+    {
+      "id": "sensetime-research-01",
+      "company_id": "sensetime",
+      "title": "「无限原力」顶尖人才计划（2027 届）",
+      "direction": "research",
+      "skills": [
+        "前沿课题",
+        "基础模型",
+        "顶会论文"
+      ],
+      "degree": "博士",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "杭州"
+      ],
+      "apply_url": "https://www.sensetime.com/cn/join-us",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "商汤 2027 届全新升级的顶尖人才项目，前沿课题/导师配置/配套资源全面升级"
+      },
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "note": "全职｜2027 届校招岗位需求同比 +35%；全年开放投递，同一时间最多投 3 个岗位，招满即下架",
+      "last_verified_at": "2026-09-16",
+      "phd_preferred": true
     }
   ]
 }
