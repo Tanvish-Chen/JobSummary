@@ -239,6 +239,78 @@
       "career_url": "https://talents.zhejianglab.com/",
       "ats": "custom",
       "note": "聚焦智能计算；招聘官网校园招聘 50 个在招职位、博士后 31 个，杭州"
+    },
+    {
+      "id": "caict",
+      "name": "中国信息通信研究院（中国信通院）",
+      "group": "foreign_lab",
+      "career_url": "https://wecruit.hotjob.cn/SU642fbf5fbef57c1e269fa798/pb/index.html",
+      "ats": "custom",
+      "note": "工信部直属科研事业单位；27 届人工智能研究所网申 2026-08-07–10-07（50+ 岗，含安全可信、大模型、智能体）；「智定者」计划给事业编制 + 100% 北京户口"
+    },
+    {
+      "id": "iie",
+      "name": "中国科学院信息工程研究所",
+      "group": "foreign_lab",
+      "career_url": "https://www.iie.ac.cn/",
+      "ats": "manual",
+      "note": "中科院所属事业单位；网络空间安全防御全国重点实验室，下设信息对抗 / 智能认知安全 / 数据安全等研究室；常年滚动招聘，入口见官网「招生招聘」栏"
+    },
+    {
+      "id": "ict",
+      "name": "中国科学院计算技术研究所",
+      "group": "foreign_lab",
+      "career_url": "https://www.ict.ac.cn/",
+      "ats": "manual",
+      "note": "中科院所属事业单位；智能算法安全全国重点实验室；「特别研究助理」A 类年薪 30 万起、入选资助项目 ≥80 万经费、可转事业编，投递 hr@ict.ac.cn"
+    },
+    {
+      "id": "zgclab",
+      "name": "中关村实验室",
+      "group": "foreign_lab",
+      "career_url": "https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/gotoZpxxList?id=269569931",
+      "ats": "manual",
+      "note": "中央管理的国家网络信息领域新型科研事业单位；27 届要求 2027-12-31 前取得双证，投递截止 2026-11-30；无公开官网，官方入口为邮箱 recruiting@zgclab.edu.cn（此处链接为清华就业网公告发布页）"
+    },
+    {
+      "id": "pmlabs",
+      "name": "紫金山实验室",
+      "group": "foreign_lab",
+      "career_url": "https://www.pmlabs.com.cn/",
+      "ats": "manual",
+      "note": "江苏省市共建事业单位（南京江宁）；6G 新型无线传输 / 6G 网络 AI / 网络内生安全（尤肖虎、刘韵洁、邬江兴院士）；设博士后工作站，博士 ≤35 周岁、特别优秀可放宽至 38"
+    },
+    {
+      "id": "qiyuan",
+      "name": "启元实验室",
+      "group": "foreign_lab",
+      "career_url": "https://qiyuanzp.zhiye.com/",
+      "ats": "zhiye",
+      "note": "中央管理的新型科研事业单位（北京海淀银桦路 58 号院）；27 届校招 5 类共 78 人，软件开发类含模型安全 / 代码安全 / 形式化验证方向，八险一金、择优落户"
+    },
+    {
+      "id": "sqz",
+      "name": "上海期智研究院",
+      "group": "foreign_lab",
+      "career_url": "https://www.sqz.ac.cn/",
+      "ats": "manual",
+      "note": "上海市科委所属事业单位，姚期智院士牵头（2020 揭牌）；聚焦人工智能 + 现代密码学 + 高性能计算 + 量子计算，已设 28 个研究课题"
+    },
+    {
+      "id": "sairi",
+      "name": "上海人工智能研究院",
+      "group": "foreign_lab",
+      "career_url": "https://www.sairi.com.cn/",
+      "ats": "manual",
+      "note": "上海市与上海交通大学共建的新型研发机构（闵行剑川路 930 号）；注意与「上海人工智能实验室」是两个独立主体，勿混投；投递邮箱 job@sairi.com.cn"
+    },
+    {
+      "id": "hfnl",
+      "name": "合肥国家实验室",
+      "group": "foreign_lab",
+      "career_url": "https://www.hfnl.cn/rczp.htm",
+      "ats": "manual",
+      "note": "国家实验室，总部合肥（另设北京 / 上海 / 济南 / 武汉 / 长沙基地）；以量子信息为主，设密码安全 / 密码检测岗，招聘学科含信息与通信工程、网络空间安全"
     }
   ]
 }

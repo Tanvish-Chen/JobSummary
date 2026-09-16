@@ -4306,6 +4306,441 @@
       "note": "全职｜2027 届校招岗位需求同比 +35%；全年开放投递，同一时间最多投 3 个岗位，招满即下架",
       "last_verified_at": "2026-09-16",
       "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "shlab-safe-01",
+      "company_id": "shlab",
+      "title": "大模型内生安全青年科学家 / 研究员（安全基模中心）",
+      "direction": "research",
+      "skills": [
+        "大模型内生安全",
+        "内容溯源与水印",
+        "安全对齐",
+        "安全基座模型"
+      ],
+      "degree": "博士",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://www.shlab.org.cn/joinus/campus",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "安全基模中心核心岗，要求博士，顶会一作或高质量开源成果优先"
+      },
+      "note": "2026-08-28 发布｜全职·科研通道｜与「大模型水印 / 内容溯源」直接对口；27 届毕业时间窗口 2026.10–2027.9",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "shlab-safe-02",
+      "company_id": "shlab",
+      "title": "智能体攻防算法工程师（安全基模中心）",
+      "direction": "research",
+      "skills": [
+        "智能体攻防",
+        "红队测试",
+        "对抗攻击",
+        "模型鲁棒性"
+      ],
+      "degree": "博士",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://www.shlab.org.cn/joinus/campus",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "攻防对抗方向，与「深度学习对抗攻击」研究直接对口"
+      },
+      "note": "2026-08-28 发布｜同批次另有安全数据中心「安全算法工程师 / 青年研究员」「AI 前沿风险青年研究员」等岗，建议一并浏览",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "caict-research-01",
+      "company_id": "caict",
+      "title": "科研攻关岗（大模型 / 具身智能 / 智能体 / 安全可信）· 人工智能研究所",
+      "direction": "research",
+      "skills": [
+        "大模型",
+        "智能体",
+        "安全可信",
+        "AI 治理与标准"
+      ],
+      "degree": "博士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://wecruit.hotjob.cn/SU642fbf5fbef57c1e269fa798/pb/index.html",
+      "deadline": "2026-10-07",
+      "difficulty": {
+        "level": "高",
+        "note": "面向 2027 届硕士及以上；博士年龄放宽至 35 岁（硕士 30 岁及以下）"
+      },
+      "note": "27 届校招 50+ 岗位，网申 2026-08-07–10-07；毕业时间要求 2026-09 至 2027-08；可参加实习者优先；提供人才公寓、住房补贴与落户计划",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "caict-research-02",
+      "company_id": "caict",
+      "title": "「智定者」计划（事业单位正式编制 + 100% 北京户口）",
+      "direction": "research",
+      "skills": [
+        "AI 标准",
+        "6G",
+        "网络与信息安全",
+        "产业政策研究"
+      ],
+      "degree": "博士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://wecruit.hotjob.cn/SU642fbf5fbef57c1e269fa798/pb/index.html",
+      "deadline": "2026-10-07",
+      "difficulty": {
+        "level": "高",
+        "note": "信通院顶尖毕业生专项，名额少、流程含笔面试"
+      },
+      "note": "信通院「智定者」计划：事业单位正式编制、100% 提供北京户口、定制化培养机制；面向工学 / 理学等专业博士",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "zgclab-research-01",
+      "company_id": "zgclab",
+      "title": "研究序列 · 助理研究员（0810 信息与通信工程 / 0839 网络空间安全 / 人工智能安全）",
+      "direction": "research",
+      "skills": [
+        "网络空间安全",
+        "人工智能安全",
+        "信息与通信工程",
+        "密码算法与安全协议"
+      ],
+      "degree": "博士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/gotoZpxxList?id=269569931",
+      "deadline": "2026-11-30",
+      "difficulty": {
+        "level": "高",
+        "note": "要求全日制博士；需两封副高级及以上推荐人推荐意见；流程含心理测评与政审"
+      },
+      "note": "★毕业时间窗口最宽的一家：27 届要求 2027-12-31 前取得毕业证与学位证；投递截止 2026-11-30，材料命名「姓名+岗位序列+学校+预计毕业时间」，邮箱 recruiting@zgclab.edu.cn；有自主职称评审资格",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "ict-research-01",
+      "company_id": "ict",
+      "title": "助理研究员（中国科学院特别研究助理）· 智能算法安全全国重点实验室",
+      "direction": "research",
+      "skills": [
+        "算法安全",
+        "模型安全",
+        "网络空间安全",
+        "信息与通信工程"
+      ],
+      "degree": "博士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://www.ict.ac.cn/",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "应届博士优先，申请时年龄一般不超过 35 周岁"
+      },
+      "note": "A 类年薪 30 万元起；入选「中科院特别研究助理资助项目」可获 ≥80 万元经费资助；合同 3 年、可续聘一期最长 6 年，聘期内可申报副高，竞聘成功或考核优秀可直接转事业编；投递 hr@ict.ac.cn（招聘官网常年有效）",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "iie-research-01",
+      "company_id": "iie",
+      "title": "科研岗 · 网络空间安全防御全国重点实验室（信息对抗 / 智能认知安全 / 数据安全研究室）",
+      "direction": "research",
+      "skills": [
+        "对抗攻击",
+        "大模型隐私保护",
+        "数据安全",
+        "网络空间安全"
+      ],
+      "degree": "博士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://www.iie.ac.cn/",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "网安国家队，事业编岗位竞争激烈；部分岗位涉密"
+      },
+      "note": "中科院所属事业单位，常年滚动招聘（入口见官网「招生招聘」栏）；2026-07 该全国重点实验室举办「大模型隐私保护」学术交流会，与大模型水印方向同源；投递前务必确认岗位涉密情况与论文外发口径",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "pmlabs-research-01",
+      "company_id": "pmlabs",
+      "title": "研究岗 / 博士后 · 普适通信研究中心（6G 新型无线传输 / 6G 网络 AI / 通感一体化）",
+      "direction": "research",
+      "skills": [
+        "6G",
+        "语义通信",
+        "网络 AI",
+        "通感一体化"
+      ],
+      "degree": "博士",
+      "cities": [
+        "南京"
+      ],
+      "apply_url": "https://www.pmlabs.com.cn/",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "博士后需博士学位、获学位一般不超过 3 年、35 周岁以下（特别优秀可放宽至 38 周岁）"
+      },
+      "note": "★语义通信最直接对口的团队（6G 关键技术攻关团队获第 28 届中国青年五四奖章集体，牵头国家 6G 总体技术研究项目）；实验室具备独立招收博士后资格，设博士后科研工作站",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "pmlabs-research-02",
+      "company_id": "pmlabs",
+      "title": "网络内生安全研究岗（邬江兴院士团队）",
+      "direction": "research",
+      "skills": [
+        "网络内生安全",
+        "AI 攻击与防御",
+        "拟态防御",
+        "信息物理系统安全"
+      ],
+      "degree": "博士",
+      "cities": [
+        "南京"
+      ],
+      "apply_url": "https://www.pmlabs.com.cn/",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "院士核心团队，偏工程化与量产落地"
+      },
+      "note": "内生安全技术已于 2026 年在智己 LS9 Hyper 量产落地（上汽 709 工程）；官方表述覆盖「AI 攻击隐患」与智能系统安全，对抗攻击背景可直接接入",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "qiyuan-research-01",
+      "company_id": "qiyuan",
+      "title": "【27届】软件开发类（含模型安全 / 代码安全 / 形式化验证方向）",
+      "direction": "research",
+      "skills": [
+        "模型安全",
+        "代码安全",
+        "形式化验证",
+        "C++ / 嵌入式"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://qiyuanzp.zhiye.com/",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "硕士及以上学历，国内外重点高校；专业含信息与通信工程、代码安全、模型安全等"
+      },
+      "note": "27 届校招 5 类共 78 人（人工智能类 20 / 软件开发类 15 / 机器人技术类 20 / 集成电路类 20 / 大数据类 3）；八险一金、择优落户、公租房；网申 qiyuanzp.zhiye.com",
+      "phd_preferred": false
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "sqz-research-01",
+      "company_id": "sqz",
+      "title": "专职科研 / 专业技术岗 · 人工智能 + 现代密码学",
+      "direction": "research",
+      "skills": [
+        "现代密码学",
+        "人工智能",
+        "量子计算与量子 AI",
+        "信息论"
+      ],
+      "degree": "博士",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://www.sqz.ac.cn/",
+      "deadline": null,
+      "difficulty": {
+        "level": "高",
+        "note": "事业单位岗位，研究方向与既定课题绑定，需匹配现有 28 个研究课题之一"
+      },
+      "note": "上海市科委所属事业单位，由图灵奖得主姚期智院士牵头组建（2020 揭牌）；聚焦人工智能、现代密码学、高性能计算系统、量子计算及量子人工智能；公开信息显示薪资最高约 42 万/年",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "sairi-research-01",
+      "company_id": "sairi",
+      "title": "算法工程师 / 研究员（多模态与跨语言方向）",
+      "direction": "multimodal",
+      "skills": [
+        "多模态",
+        "跨语言",
+        "模型训练与部署",
+        "Python / C++"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "上海"
+      ],
+      "apply_url": "https://www.sairi.com.cn/",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "硕士及以上，需具备复现跨模态数据处理算法的能力"
+      },
+      "note": "上海市与上海交通大学共建的新型研发机构，承担上海市人工智能研发与转化功能平台；★注意与「上海人工智能实验室」是两个独立主体；投递 job@sairi.com.cn（注明应聘职位与工作年限）",
+      "phd_preferred": false
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "hfnl-research-01",
+      "company_id": "hfnl",
+      "title": "密码安全研究岗（量子密钥分发 / 抗量子密码 / 密码融合应用）",
+      "direction": "research",
+      "skills": [
+        "密码学",
+        "密码协议",
+        "量子信息",
+        "信息安全"
+      ],
+      "degree": "硕士",
+      "cities": [
+        "合肥"
+      ],
+      "apply_url": "https://www.hfnl.cn/rczp.htm",
+      "deadline": null,
+      "difficulty": {
+        "level": "中",
+        "note": "技术支撑岗常年招聘；方向以量子信息为主，与三个研究方向的交集在密码学根基"
+      },
+      "note": "国家实验室（总部合肥，另设北京 / 上海 / 济南 / 武汉 / 长沙基地）；招聘学科含信息与通信工程、网络空间安全；另有密码检测岗、量子安全基础设施相关岗位",
+      "phd_preferred": false
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "zgyd-research-02",
+      "company_id": "zgyd",
+      "title": "无线通信技术研究（语义通信 / AI-RAN / 通信感知融合）· 中国移动研究院",
+      "direction": "research",
+      "skills": [
+        "语义通信",
+        "5G-A / 6G",
+        "AI 与通信融合",
+        "MIMO / 电磁信息论"
+      ],
+      "degree": "博士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://job.10086.cn/personal/campus/campus_job_list.html",
+      "deadline": "2026-10-17",
+      "difficulty": {
+        "level": "高",
+        "note": "要求扎实的无线通信 + AI/大模型基础；有语义通信、AI-RAN、多模态大模型相关研究经历者优先"
+      },
+      "note": "★ JD 原文明确列出「语义通信」——本清单中唯一把语义通信写进岗位职责的机构；校招博士招 2 人，报名截止 2026-10-17（岗位详情见国聘 id=216611880209220569）",
+      "phd_preferred": true
+    },
+    {
+      "status": "open",
+      "source": "official",
+      "fetched_at": "2026-09-16",
+      "headcount": null,
+      "last_verified_at": "2026-09-16",
+      "id": "zgyd-research-03",
+      "company_id": "zgyd",
+      "title": "人工智能安全研究（基于密码学的 AI 安全 / 大模型与智能体安全测试）· 中国移动研究院",
+      "direction": "research",
+      "skills": [
+        "AI 安全",
+        "密码学",
+        "大模型安全测试",
+        "智能体安全"
+      ],
+      "degree": "博士",
+      "cities": [
+        "北京"
+      ],
+      "apply_url": "https://job.10086.cn/personal/campus/campus_job_list.html",
+      "deadline": "2026-10-17",
+      "difficulty": {
+        "level": "高",
+        "note": "有机器学习 / 深度学习 / 密码学经验者优先；有大模型、智能体相关课题或标准成果者优先"
+      },
+      "note": "研究「基于密码学的人工智能安全理论」「AI 安全度量理论」，做多模态大模型与智能体安全测试，参与国内外 AI 安全标准制定；校招博士招 2 人，报名截止 2026-10-17",
+      "phd_preferred": true
     }
   ]
 }

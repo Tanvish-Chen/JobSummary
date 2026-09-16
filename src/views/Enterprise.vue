@@ -1,7 +1,7 @@
 <script setup>
 import { ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
-import { companies, phdPrograms, directionMap, enterpriseFlow } from '../data/companies'
+import { companies, phdPrograms, directionMap, enterpriseFlow, graduationWindow } from '../data/companies'
 import { useStore } from '../composables/useStore'
 import { nowcoderSearch, githubSearch, webSearch, codetopHome } from '../data/examResources'
 import { loadJobData } from '../lib/jobData'
@@ -57,6 +57,17 @@ const filtered = computed(() =>
 
 const matchType = { 3: 'danger', 2: 'warning', 1: 'info' }
 
+/**
+ * companies.js 的 url 字段中，部分条目把提示语直接跟在地址后面
+ * （如 'https://www.zju.edu.cn（官网招聘入口）'），若直接当 href 会跳到 404。
+ * 这里统一截取到第一个非 ASCII 字符，取不到则返回空串（模板会退化为纯文本展示）。
+ */
+function cleanUrl(u) {
+  if (!u || typeof u !== 'string') return ''
+  const m = u.match(/^https?:\/\/[^\s\u4e00-\u9fa5（）【】「」，。：；、]*/)
+  return m ? m[0] : ''
+}
+
 function quickAdd(c) {
   store.applications.push({
     id: `${Date.now()}_${Math.random().toString(36).slice(2, 7)}`,
@@ -65,7 +76,7 @@ function quickAdd(c) {
     track: '企业',
     status: '想投',
     deadline: '',
-    url: c.url || '',
+    url: cleanUrl(c.url) || '',
     note: c.phdProgram ? `博士专项：${c.phdProgram}` : '',
     createdAt: new Date().toISOString()
   })
@@ -91,6 +102,32 @@ function quickAdd(c) {
           </div>
         </el-collapse-item>
       </el-collapse>
+    </div>
+
+    <!-- 毕业时间窗口（延毕风险） -->
+    <div class="qz-card">
+      <h3>⏰ {{ graduationWindow.headline }}</h3>
+      <p class="qz-muted" style="margin: 0 0 10px; font-size: 13px">{{ graduationWindow.intro }}</p>
+      <el-table :data="graduationWindow.rows" size="small" class="qz-table-full">
+        <el-table-column prop="org" label="机构" width="235" />
+        <el-table-column prop="window" label="最晚拿证窗口" width="205" />
+        <el-table-column prop="level" label="宽严" width="78">
+          <template #default="{ row }">
+            <el-tag
+              size="small"
+              effect="plain"
+              :type="['最严', '严'].includes(row.level) ? 'danger' : ['最宽', '兜底'].includes(row.level) ? 'success' : 'warning'"
+            >{{ row.level }}</el-tag>
+          </template>
+        </el-table-column>
+        <el-table-column prop="note" label="说明" />
+      </el-table>
+      <div class="qz-highlight-box" style="margin-top: 10px">
+        <b>结论（按你的情况：理论 2027 年 6 月毕业，但硬性毕业条件尚未达成）</b>
+        <ul style="margin: 6px 0 0; padding-left: 18px">
+          <li v-for="(t, i) in graduationWindow.conclusion" :key="i">{{ t }}</li>
+        </ul>
+      </div>
     </div>
 
     <!-- 公司库 -->
@@ -132,7 +169,7 @@ function quickAdd(c) {
               <span v-else class="co-link qz-muted">岗位雷达暂未收录该公司岗位</span>
             </div>
             <div class="co-actions">
-              <a v-if="c.url && c.url.startsWith('http')" :href="c.url" target="_blank" class="co-link">官网投递 →</a>
+              <a v-if="cleanUrl(c.url)" :href="cleanUrl(c.url)" target="_blank" class="co-link">官网投递 →</a>
               <span v-else class="co-link qz-muted">{{ c.url }}</span>
               <span class="co-exam">
                 <a :href="nowcoderSearch(c.name)" target="_blank" class="co-link" title="牛客面经搜索">📚真题</a>

@@ -31,7 +31,12 @@ export const AIRADAR_STATUS_MAP = {
 }
 
 /** find_job 公司 id → 作战室公司库 id（仅列不一致的；一致的可省略） */
-export const COMPANY_ALIAS = { antgroup: 'ant' }
+export const COMPANY_ALIAS = {
+  antgroup: 'ant',
+  // 中科院所属研究所：雷达侧（jobCompanies.json / jobs.json）用短 id，作战室公司库沿用 cas- 前缀
+  iie: 'cas-iie',
+  ict: 'cas-ict'
+}
 export function companyId(cid) { return COMPANY_ALIAS[cid] || cid }
 
 /** 城市规范表述（jobs.json 中 5 条含「香港」、2 条含「新加坡」） */
